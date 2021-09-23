@@ -1,0 +1,4232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Presentation file, saved 7/29/2021 4:42:49 PM using CourseLab 200122 -->
+<module>
+<runtime preview_fullscreen="no" preview_fitwindow="no" fit_small_window="yes" showsplash="yes" seqslides="no" preloadimages="yes" normalize="yes"/>
+<groups>
+<group id="GROUP_1" expanded="yes">
+<ref id="IMG_6"/>
+<ref id="TXT_60"/>
+</group>
+<group id="GROUP_3" expanded="yes">
+<ref id="IMG_10"/>
+<ref id="TXT_67"/>
+</group>
+</groups>
+<slides>
+<slide id="SLIDE_16" expanded="yes" sid="6W" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Общие положения о приостановлении операций по счетам в банке" indent="0">
+<frames>
+<frame id="FRAME_37" expanded="yes" dur="0" infinite="1">
+<object id="TXT_423" expanded="yes" x="30" y="100" w="1180" h="139" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 1180px; height: 139px; box-sizing: border-box;"><h1 class="h2 mb-40">Общие положения о приостановлении операций по счетам в банке</h1></div>]]>
+</data>
+</object>
+<object id="TXT_386" expanded="yes" x="30" y="260" w="1000" h="129" z="101" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 1000px; height: 129px; box-sizing: border-box;"><div class="text text-l">Все мы прекрасно знаем, что для обеспечения деятельности государства Конституцией РФ установлена обязанность оплачивать установленные налоги и сборы (<a class="link" href="#" onclick="$('#TXT_387').show();$('#IMG_6').hide();$('#TXT_60').hide();">ст.57 Конституции РФ</a>). В свою очередь, в целях обеспечения исполнения обязанности по уплате налогов, законодатель установил меры государственного принуждения, которые призваны покрывать исполнение налогоплательщиком конституционной обязанности.
+</div></div>]]>
+</data>
+</object>
+<object id="TXT_387" expanded="yes" x="0" y="0" w="1280" h="720" z="102" display="none" begin="0">
+<data>
+<![CDATA[<div style="width: 1280px; height: 720px; box-sizing: border-box;" onbeforecomplete="CL.Resp.Process({ respid: 'TXT_387_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;" onaftercomplete="CL.Resp.Process({ respid: 'TXT_387_2', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;" ondisplay="CL.Resp.Process({ respid: 'TXT_387_3', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"><div class="modal">
+<div class="modal-content">
+<div class="modal-content-body">
+<div class="h5 mb-pink">Статья 57</div>
+
+<div class="text text-l">Каждый обязан платить законно установленные налоги и сборы. Законы, устанавливающие новые налоги или ухудшающие положение налогоплательщиков, обратной силы не имеют.</div>
+</div>
+
+<div class="btn btn__primary btn__round m btn__modal modal-close">Закрыть</div>
+</div>
+</div></div>]]>
+</data>
+<RESPONSE name="TXT_387_1" event="onbeforecomplete" type="link">
+<ZINDEX pid="TXT_387" z="5001" additive="replace">
+</ZINDEX>
+</RESPONSE>
+<RESPONSE name="TXT_387_2" event="onaftercomplete" type="link">
+<ZINDEX pid="TXT_387" z="5001" additive="replace">
+</ZINDEX>
+</RESPONSE>
+<RESPONSE name="TXT_387_3" event="ondisplay" type="link">
+<ZINDEX pid="TXT_387" z="5001" additive="replace">
+</ZINDEX>
+</RESPONSE>
+</object>
+<object id="IMG_43" expanded="yes" x="1089" y="260" w="121" h="160" z="103" display="frame" begin="0" preload="images/icon_1_2.png">
+<data>
+<![CDATA[<img src="images/icon_1_2.png" style="width: 121px; height: 160px;border-width: 0px;"/>]]>
+</data>
+</object>
+<object id="IMG_6" expanded="yes" x="410" y="306" w="57" h="49" z="104" display="frame" begin="0" tranin="12" durin="0.5" preload="images/arrow.png">
+<data>
+<![CDATA[<img src="images/arrow.png" style="width: 57px; height: 49px;border-width: 0px;"/>]]>
+</data>
+</object>
+<object id="TXT_60" expanded="yes" x="472" y="342" w="363" h="23" z="105" display="frame" begin="0" tranin="12" durin="0.5">
+<data>
+<![CDATA[<div style="width: 363px; height: 23px; box-sizing: border-box;"><div class="text text-l">Нажми на ссылку, чтобы прочитать информацию.
+</div></div>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+<frame id="FRAME_73" expanded="yes" dur="0" infinite="1">
+<object id="TXT_388" expanded="yes" x="30" y="100" w="1180" h="139" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 1180px; height: 139px; box-sizing: border-box;"><h1 class="h2 mb-40">Общие положения о приостановлении операций по счетам в банке
+</h1></div>]]>
+</data>
+</object>
+<object id="TXT_389" expanded="yes" x="30" y="260" w="1180" h="145" z="101" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 1180px; height: 145px; box-sizing: border-box;"><div class="text text-l">В Налоговом кодексе конституционная обязанность уплачивать законно установленные налоги и сборы детализирована: в соответствии с <a class="link" href="#" onclick="$('#TXT_390').show()">пп.1 п.1 ст.23 НК РФ</a> налогоплательщики обязаны уплачивать законно установленные налоги, а в соответствии с <a class="link" href="#" onclick="$('#TXT_391').show()">пп.4 п.1 ст.23 НК РФ</a> &mdash; представлять в установленном порядке<br> в налоговый орган по месту учета налоговые декларации (расчеты).
+</div>
+<div class="text text-l">В случае невыполнения или ненадлежащего выполнения возложенных на налогоплательщика обязанностей налоговый орган может привлечь его<br> к ответственности, а также использовать механизмы принуждения к исполнению установленных Налоговым кодексом обязанностей.
+</div></div>]]>
+</data>
+</object>
+<object id="TXT_390" expanded="yes" x="0" y="0" w="1280" h="720" z="102" display="none" begin="0">
+<data>
+<![CDATA[<div style="width: 1280px; height: 720px; box-sizing: border-box;" onbeforecomplete="CL.Resp.Process({ respid: 'TXT_390_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;" onaftercomplete="CL.Resp.Process({ respid: 'TXT_390_2', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;" ondisplay="CL.Resp.Process({ respid: 'TXT_390_3', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"><div class="modal">
+<div class="modal-content">
+<div class="modal-content-body">
+<div class="h5 mb-pink">пп.1 п.1 ст.23 НК РФ</div>
+
+<div class="text text-l mb-pink">Налогоплательщики обязаны:</div>
+
+<ul class="list__ul text text-l">
+	<li class="list__ul-dash">Уплачивать законно установленные налоги.</li>
+</ul>
+</div>
+
+<div class="btn btn__primary btn__round m btn__modal modal-close">Закрыть</div>
+</div>
+</div></div>]]>
+</data>
+<RESPONSE name="TXT_390_1" event="onbeforecomplete" type="link">
+<ZINDEX pid="TXT_390" z="5001" additive="replace">
+</ZINDEX>
+</RESPONSE>
+<RESPONSE name="TXT_390_2" event="onaftercomplete" type="link">
+<ZINDEX pid="TXT_390" z="5001" additive="replace">
+</ZINDEX>
+</RESPONSE>
+<RESPONSE name="TXT_390_3" event="ondisplay" type="link">
+<ZINDEX pid="TXT_390" z="5001" additive="replace">
+</ZINDEX>
+</RESPONSE>
+</object>
+<object id="TXT_391" expanded="yes" x="0" y="0" w="1280" h="720" z="103" display="none" begin="0">
+<data>
+<![CDATA[<div style="width: 1280px; height: 720px; box-sizing: border-box;" onbeforecomplete="CL.Resp.Process({ respid: 'TXT_391_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;" onaftercomplete="CL.Resp.Process({ respid: 'TXT_391_2', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;" ondisplay="CL.Resp.Process({ respid: 'TXT_391_3', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"><div class="modal">
+    <div class="modal-content">
+      <div class="modal-content-scroll">
+        <div class="h5 mb-pink">пп.4 п.1 ст.23 НК РФ
+        </div>
+        <div class="text text-l mb-pink">Налогоплательщики обязаны:
+        </div>
+        <ul class="list__ul text text-l">
+          <li class="list__ul-dash">Представлять в установленном порядке в налоговый орган по месту учета налоговые декларации (расчеты), если такая обязанность предусмотрена законодательством о налогах и сборах.</li>
+        </ul>
+      </div>
+      <div class="btn btn__primary btn__round m btn__modal modal-close">Закрыть
+      </div>
+    </div>
+  </div></div>]]>
+</data>
+<RESPONSE name="TXT_391_1" event="onbeforecomplete" type="link">
+<ZINDEX pid="TXT_391" z="5001" additive="replace">
+</ZINDEX>
+</RESPONSE>
+<RESPONSE name="TXT_391_2" event="onaftercomplete" type="link">
+<ZINDEX pid="TXT_391" z="5001" additive="replace">
+</ZINDEX>
+</RESPONSE>
+<RESPONSE name="TXT_391_3" event="ondisplay" type="link">
+<ZINDEX pid="TXT_391" z="5001" additive="replace">
+</ZINDEX>
+</RESPONSE>
+</object>
+<timeline>
+</timeline>
+</frame>
+<frame id="FRAME_77" expanded="yes" dur="0" infinite="1">
+<object id="TXT_392" expanded="yes" x="30" y="100" w="1180" h="139" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 1180px; height: 139px; box-sizing: border-box;"><h1 class="h2 mb-40">Общие положения о приостановлении операций по счетам в банке
+</h1></div>]]>
+</data>
+</object>
+<object id="TXT_393" expanded="yes" x="30" y="260" w="1180" h="333" z="101" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 1180px; height: 333px; box-sizing: border-box;"><div class="text text-l">Обеспечению исполнения обязанностей налогоплательщиков посвящена Глава 11 НК РФ. Так, в соответствии с <a class="link" href="#" onclick="$('#TXT_394').show()">п.1 ст.72 НК РФ</a> исполнение обязанности<br> по уплате налогов, сборов, страховых взносов может обеспечиваться следующими способами:
+</div>
+<ul class="list__ul text text-l">
+  <li class="list__ul-dash">Залог имущества.</li>
+  <li class="list__ul-dash">Поручительство.</li>
+  <li class="list__ul-dash">Пеня.</li>
+  <li class="list__ul-dash">Наложением ареста на имущество налогоплательщика.</li>
+  <li class="list__ul-dash">Приостановлением операций по счетам в банке.</li>
+  <li class="list__ul-dash">Банковской гарантией.</li>
+</ul>
+<div class="text text-l">Среди всех вышеперечисленных способов, на практике налоговыми органами широко используется — приостановление операций по счетам в банке,<br> поскольку для налогоплательщиков это самая неудобная с точки зрения ведения бизнеса мера, а значит самая действенная для налоговых органов.
+</div></div>]]>
+</data>
+</object>
+<object id="TXT_394" expanded="yes" x="0" y="0" w="1280" h="720" z="102" display="none" begin="0">
+<data>
+<![CDATA[<div style="width: 1280px; height: 720px; box-sizing: border-box;" onbeforecomplete="CL.Resp.Process({ respid: 'TXT_394_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;" onaftercomplete="CL.Resp.Process({ respid: 'TXT_394_2', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;" ondisplay="CL.Resp.Process({ respid: 'TXT_394_3', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"><div class="modal">
+  <div class="modal-content">
+    <div class="modal-content-body">
+      <div class="h5 mb-pink">п.1 ст.72 НК РФ
+      </div>
+      <div class="text text-l">Законодательство Российской Федерации о налогах и сборах состоит из настоящего Кодекса и принятых в соответствии с ним федеральных законов о налогах, сборах, страховых взносах.
+      </div>
+    </div>
+    <div class="btn btn__primary btn__round m btn__modal modal-close">Закрыть
+    </div>
+  </div>
+</div></div>]]>
+</data>
+<RESPONSE name="TXT_394_1" event="onbeforecomplete" type="link">
+<ZINDEX pid="TXT_394" z="5001" additive="replace">
+</ZINDEX>
+</RESPONSE>
+<RESPONSE name="TXT_394_2" event="onaftercomplete" type="link">
+<ZINDEX pid="TXT_394" z="5001" additive="replace">
+</ZINDEX>
+</RESPONSE>
+<RESPONSE name="TXT_394_3" event="ondisplay" type="link">
+<ZINDEX pid="TXT_394" z="5001" additive="replace">
+</ZINDEX>
+</RESPONSE>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_38" expanded="yes" sid="7Z" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Процедура приостановления операций по счетам" indent="0">
+<frames>
+<frame id="FRAME_78" expanded="yes" dur="0" infinite="1">
+<object id="TXT_395" expanded="yes" x="30" y="100" w="1180" h="139" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 1180px; height: 139px; box-sizing: border-box;"><h1 class="h2 mb-40">Процедура приостановления операций<br />
+по счетам</h1></div>]]>
+</data>
+</object>
+<object id="TXT_396" expanded="yes" x="30" y="260" w="1180" h="44" z="101" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 1180px; height: 44px; box-sizing: border-box;"><div class="text h4">Порядок и сроки приостановления операций по счетам налогоплательщика в банках регламентированы ст.76 НК РФ.
+</div></div>]]>
+</data>
+</object>
+<object id="IMG_44" expanded="yes" x="926" y="310" w="284" h="187" z="102" display="frame" begin="0" preload="images/icon_1_3.png">
+<data>
+<![CDATA[<img src="images/icon_1_3.png" style="width: 284px; height: 187px;border-width: 0px;"/>]]>
+</data>
+</object>
+<object id="TXT_406" expanded="yes" x="30" y="310" w="850" h="150" z="103" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 850px; height: 150px; box-sizing: border-box;"><div class="text text-l">Для приостановления операций по счетам налогоплательщика налоговый орган, в лице руководителя или его заместителя, выносит решение о приостановлении операций и направляет его в банки, где у налогоплательщика открыты расчетные счета, причем копия этого решения должна быть в обязательном порядке передана налогоплательщику под роспись или иным способом, свидетельствующим о дате его получения. Передача решения в банк осуществляется на бумажном носителе или в электронном виде (<a class="link" href="#" onclick="$('#TXT_397').show()">п.4 ст.76 НК РФ</a>).</div></div>]]>
+</data>
+</object>
+<object id="TXT_397" expanded="yes" x="0" y="0" w="1280" h="720" z="104" display="none" begin="0">
+<data>
+<![CDATA[<div style="width: 1280px; height: 720px; box-sizing: border-box;" onbeforecomplete="CL.Resp.Process({ respid: 'TXT_397_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;" onaftercomplete="CL.Resp.Process({ respid: 'TXT_397_2', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;" ondisplay="CL.Resp.Process({ respid: 'TXT_397_3', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"><div class="modal">
+    <div class="modal-content scroll">
+      <div class="modal-content-scroll">
+        <div class="h5 mb-pink">п.4 ст.76 НК РФ
+        </div>
+        <div class="text text-l">Решение о приостановлении операций налогоплательщика-организации по его счетам в банке и переводов его электронных денежных средств направляется налоговым органом в банк в электронной форме.</div>
+        <div class="text text-l">Решение об отмене приостановления операций по счетам налогоплательщика-организации и переводов его электронных денежных средств направляется в банк в электронной форме не позднее дня, следующего за днем принятия такого решения.</div>
+        <div class="text text-l">Порядок направления в банк в электронной форме решения налогового органа о приостановлении операций по счетам налогоплательщика-организации в банке и переводов его электронных денежных средств или решения об отмене приостановления операций по счетам налогоплательщика-организации в банке и переводов его электронных денежных средств устанавливается Центральным банком Российской Федерации по согласованию с федеральным органом исполнительной власти, уполномоченным по контролю и надзору в области налогов и сборов.</div>
+        <div class="text text-l">Формы решения налогового органа о приостановлении операций по счетам налогоплательщика-организации в банке и переводов его электронных денежных средств и решения об отмене приостановления операций по счетам налогоплательщика-организации в банке и переводов его электронных денежных средств утверждаются федеральным органом исполнительной власти, уполномоченным по контролю и надзору в области налогов и сборов. Форматы указанных решений утверждаются федеральным органом исполнительной власти, уполномоченным по контролю и надзору в области налогов и сборов, по согласованию с Центральным банком Российской Федерации.</div>
+        <div class="text text-l">Копия решения о приостановлении операций по счетам налогоплательщика-организации в банке и переводов его электронных денежных средств или решения об отмене приостановления операций по счетам налогоплательщика-организации в банке и переводов его электронных денежных средств передается налогоплательщику-организации под расписку или иным способом, свидетельствующим о дате получения налогоплательщиком-организацией копии соответствующего решения, в срок не позднее дня, следующего за днем принятия такого решения (абзац дополнен с 1 января 2009 года Федеральным законом от 26 ноября 2008 года N 224-ФЗ; дополнен с 30 сентября 2011 года Федеральным законом от 27 июня 2011 года N 162-ФЗ).</div>
+      </div>
+      <div class="btn btn__primary btn__round m btn__modal modal-close">Закрыть
+      </div>
+    </div>
+  </div></div>]]>
+</data>
+<RESPONSE name="TXT_397_1" event="onbeforecomplete" type="link">
+<ZINDEX pid="TXT_397" z="5001" additive="replace">
+</ZINDEX>
+</RESPONSE>
+<RESPONSE name="TXT_397_2" event="onaftercomplete" type="link">
+<ZINDEX pid="TXT_397" z="5001" additive="replace">
+</ZINDEX>
+</RESPONSE>
+<RESPONSE name="TXT_397_3" event="ondisplay" type="link">
+<ZINDEX pid="TXT_397" z="5001" additive="replace">
+</ZINDEX>
+</RESPONSE>
+</object>
+<timeline>
+</timeline>
+</frame>
+<frame id="FRAME_84" expanded="yes" dur="0" infinite="1">
+<object id="TXT_398" expanded="yes" x="30" y="100" w="1180" h="139" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 1180px; height: 139px; box-sizing: border-box;"><h1 class="h2 mb-40">Процедура приостановления операций<br />
+по счетам</h1></div>]]>
+</data>
+</object>
+<object id="TXT_399" expanded="yes" x="30" y="260" w="1180" h="219" z="101" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 1180px; height: 219px; box-sizing: border-box;"><div class="text text-l">Приказом ФНС России от 13.02.2017 N ММВ-7-8/179@ утверждены формы документов о выявлении недоимки, требования об уплате налога, сбора, страховых взносов, пени, штрафа, процентов, а также документов, используемых налоговыми органами при применении обеспечительных мер и взыскании задолженности по указанным платежам.
+</div>
+<div class="text text-l">Получив решение налогового органа о приостановлении операций по счетам, банк обязан исполнить его в безусловном порядке и приостановить операции
+  <br />
+  по счетам налогоплательщика с момента получения решения (п.7 ст.76 НК РФ).
+</div>
+<div class="text text-l">Кроме того, после получения решения о приостановлении операций по счетам банк обязан сообщить в налоговую инспекцию информацию об остатках денежных средств на счетах налогоплательщика (<a class="link" href="#" onclick="$('#TXT_400').show()">п.5 ст.76 НК РФ</a>).
+</div></div>]]>
+</data>
+</object>
+<object id="TXT_400" expanded="yes" x="0" y="0" w="1280" h="720" z="102" display="none" begin="0">
+<data>
+<![CDATA[<div style="width: 1280px; height: 720px; box-sizing: border-box;" onbeforecomplete="CL.Resp.Process({ respid: 'TXT_400_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;" onaftercomplete="CL.Resp.Process({ respid: 'TXT_400_2', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;" ondisplay="CL.Resp.Process({ respid: 'TXT_400_3', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"><div class="modal">
+<div class="modal-content">
+<div class="modal-content-body">
+<div class="h5 mb-pink">п.5 ст.76 НК РФ</div>
+
+<div class="text text-l">Банк обязан сообщить в налоговый орган в электронной форме сведения об остатках денежных средств (драгоценных металлов) налогоплательщика-организации на счетах в банке, операции по которым приостановлены, а также об остатках электронных денежных средств, перевод которых приостановлен, в течение трех дней после дня получения решения этого налогового органа о приостановлении операций по счетам налогоплательщика-организации в банке. Форматы сообщения банком сведений об остатках денежных средств (драгоценных металлов) на счетах налогоплательщика-организации в банке и об остатках электронных денежных средств и порядок направления банком указанного сообщения в электронной форме утверждаются Центральным банком Российской Федерации по согласованию с федеральным органом исполнительной власти, уполномоченным по контролю и надзору в области налогов и сборов.</div>
+</div>
+
+<div class="btn btn__primary btn__round m btn__modal modal-close">Закрыть</div>
+</div>
+</div></div>]]>
+</data>
+<RESPONSE name="TXT_400_1" event="onbeforecomplete" type="link">
+<ZINDEX pid="TXT_400" z="5001" additive="replace">
+</ZINDEX>
+</RESPONSE>
+<RESPONSE name="TXT_400_2" event="onaftercomplete" type="link">
+<ZINDEX pid="TXT_400" z="5001" additive="replace">
+</ZINDEX>
+</RESPONSE>
+<RESPONSE name="TXT_400_3" event="ondisplay" type="link">
+<ZINDEX pid="TXT_400" z="5001" additive="replace">
+</ZINDEX>
+</RESPONSE>
+</object>
+<timeline>
+</timeline>
+</frame>
+<frame id="FRAME_89" expanded="yes" dur="0" infinite="1">
+<object id="TXT_402" expanded="yes" x="30" y="100" w="1180" h="139" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 1180px; height: 139px; box-sizing: border-box;"><h1 class="h2 mb-40">Процедура приостановления операций
+  <br />
+  по счетам
+</h1></div>]]>
+</data>
+</object>
+<object id="TXT_403" expanded="yes" x="30" y="260" w="1180" h="200" z="101" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 1180px; height: 200px; box-sizing: border-box;"><div class="text text-l">Разблокировать счета банк сможет только после отмены налоговым органом решения о приостановлении операций по счетам, ведь НК РФ устанавливает четкий срок действия решения (с момента его получения банком от налогового органа и до его отмены) и не предусматривает вариантов приостановления его действия (<a class="link" href="#" onclick="$('#TXT_404').show()">п.7 ст.76 НК РФ</a>).</div>
+
+<div class="text text-l">В случае, если после принятия решения о приостановлении операций по счетам налогоплательщика-организации в банке изменились его наименование и (или) реквизиты счета в банке, операции по которому приостановлены, указанное решение все равно должно исполняться в отношении организации, изменившей свое наименование, и операций по счету, имеющему измененные реквизиты (<a class="link" href="#" onclick="$('#TXT_404').show()">п.7 ст.76 НК РФ</a>). Аналогичный порядок действует и в случае приостановления переводов электронных денежных средств (<a class="link" href="#" onclick="$('#TXT_404').show()">п.7 ст.76 НК РФ</a>).</div></div>]]>
+</data>
+</object>
+<object id="TXT_404" expanded="yes" x="0" y="0" w="1280" h="720" z="102" display="none" begin="0">
+<data>
+<![CDATA[<div style="width: 1280px; height: 720px; box-sizing: border-box;" onbeforecomplete="CL.Resp.Process({ respid: 'TXT_404_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;" onaftercomplete="CL.Resp.Process({ respid: 'TXT_404_2', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;" ondisplay="CL.Resp.Process({ respid: 'TXT_404_3', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"><div class="modal">
+  <div class="modal-content">
+    <div class="modal-content-body">
+      <div class="h5 mb-pink">п.7 ст.76 НК РФ
+      </div>
+      <div class="text text-l">Приостановление операций налогоплательщика-организации по его счетам в банке и переводов его электронных денежных средств действует с момента получения банком решения налогового органа о приостановлении таких операций, таких переводов и до получения банком решения налогового органа об отмене приостановления операций по счетам налогоплательщика-организации в банке, решения налогового органа об отмене приостановления переводов его электронных денежных средств (абзац в редакции, введенной в действие с 1 января 2009 года Федеральным законом от 26 ноября 2008 года N 224-ФЗ; дополнен с 30 сентября 2011 года Федеральным законом от 27 июня 2011 года N 162-ФЗ).
+      </div>
+    </div>
+    <div class="btn btn__primary btn__round m btn__modal modal-close">Закрыть
+    </div>
+  </div>
+</div></div>]]>
+</data>
+<RESPONSE name="TXT_404_1" event="onbeforecomplete" type="link">
+<ZINDEX pid="TXT_404" z="5001" additive="replace">
+</ZINDEX>
+</RESPONSE>
+<RESPONSE name="TXT_404_2" event="onaftercomplete" type="link">
+<ZINDEX pid="TXT_404" z="5001" additive="replace">
+</ZINDEX>
+</RESPONSE>
+<RESPONSE name="TXT_404_3" event="ondisplay" type="link">
+<ZINDEX pid="TXT_404" z="5001" additive="replace">
+</ZINDEX>
+</RESPONSE>
+</object>
+<object id="TXT_407" expanded="yes" x="30" y="465" w="1180" h="133" z="103" display="frame" begin="0" tranin="12" durin="0.4">
+<data>
+<![CDATA[<div style="width: 1180px; height: 133px; box-sizing: border-box;"><div class="plate plate--icon">
+<div class="text text-m"><span class="text-bold">Обратите внимание!</span> Если у налогоплательщика на нескольких расчетных счетах имеются денежные средства, в совокупности достаточные для погашения недоимки, штрафов, пени, указанных в решении о приостановлении операций по счету, то налогоплательщик вправе подать в налоговый орган заявление об отмене приостановления операций по счетам в банке с указанием счетов, на которых имеется достаточно денежных средств для исполнения решения о взыскании налога (<a class="link" href="#" onclick="$('#TXT_404').show()">п.9 ст.76 НК РФ</a>).</div>
+</div></div>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+<frame id="FRAME_9" expanded="yes" dur="0" infinite="1">
+<object id="TXT_38" expanded="yes" x="30" y="100" w="1180" h="139" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 1180px; height: 139px; box-sizing: border-box;"><h1 class="h2 mb-40">Процедура приостановления операций<br />
+по счетам</h1></div>]]>
+</data>
+</object>
+<object id="TXT_39" expanded="yes" x="30" y="260" w="1180" h="219" z="101" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 1180px; height: 219px; box-sizing: border-box;"><div class="text text-l">Налоговый орган вправе направить в банк запрос об остатках денежных средств на этих счетах (<a class="link" href="#" onclick="$('#TXT_40').show()">п.9 ст.76 НК РФ</a>).
+</div>
+<div class="text text-l">Если пакет документов недостаточен для подтверждения информации о предлагаемом налогоплательщиком банковском счете, то у инспекции может потребоваться некоторое время на проверку этой информации. После получения от банка информации о том, что денежных средств на указанных налогоплательщиком счетах достаточно, на решение о разблокировке счета отводится два дня (<a class="link" href="#" onclick="$('#TXT_40').show()">п.9 ст.76 НК РФ</a>).
+</div></div>]]>
+</data>
+</object>
+<object id="TXT_40" expanded="yes" x="0" y="0" w="1280" h="720" z="102" display="none" begin="0">
+<data>
+<![CDATA[<div style="width: 1280px; height: 720px; box-sizing: border-box;" onbeforecomplete="CL.Resp.Process({ respid: 'TXT_40_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;" onaftercomplete="CL.Resp.Process({ respid: 'TXT_40_2', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;" ondisplay="CL.Resp.Process({ respid: 'TXT_40_3', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"><div class="modal">
+<div class="modal-content scroll">
+<div class="modal-content-scroll">
+<div class="h5 mb-pink">п.9 ст.76 НК РФ</div>
+
+<div class="text text-l">В случае, если общая сумма денежных средств налогоплательщика-организации, находящихся на счетах, операции по которым приостановлены на основании решения налогового органа, превышает указанную в этом решении сумму, этот налогоплательщик вправе подать в налоговый орган заявление об отмене приостановления операций по своим счетам в банке с указанием счетов, на которых имеется достаточно денежных средств для исполнения решения о взыскании налога.</div>
+
+<div class="text text-l">Налоговый орган обязан в двухдневный срок со дня получения указанного в абзаце первом настоящего пункта заявления налогоплательщика принять решение об отмене приостановления операций по счетам налогоплательщика-организации в части превышения суммы денежных средств, указанной в решении налогового органа о приостановлении операций по счетам налогоплательщика-организации в банке.</div>
+
+<div class="text text-l">В случае, если к указанному заявлению налогоплательщиком не приложены документы, подтверждающие наличие денежных средств на счетах, указанных в этом заявлении, налоговый орган вправе до принятия решения об отмене приостановления операций по счетам в течение дня, следующего за днем получения такого заявления налогоплательщика, направить в банк, в котором открыты указанные налогоплательщиком счета, запрос об остатках денежных средств на этих счетах. Сообщение об остатках денежных средств на счетах налогоплательщика в банке направляется банком в электронной форме в установленном формате не позднее следующего дня после дня получения запроса налогового органа.</div>
+
+<div class="text text-l">После получения от банка информации о наличии денежных средств на счетах налогоплательщика в банке в размере, достаточном для исполнения решения о взыскании, налоговый орган обязан в течение двух дней принять решение об отмене приостановления операций по счетам налогоплательщика-организации в части превышения суммы денежных средств, указанной в решении налогового органа о приостановлении операций по счетам налогоплательщика-организации в банке.</div>
+
+<div class="text text-l">Положения настоящего пункта применяются также в случае приостановления операций по счетам в драгоценных металлах. При этом стоимость драгоценных металлов определяется исходя из учетной цены на драгоценные металлы, установленной Центральным банком Российской Федерации на дату принятия налоговым органом решения об отмене приостановления операций по счету в драгоценных металлах.</div>
+
+<ol class="list__ol text text-l">
+	<li class="list__ol-item">Приостановление операций по счетам налогоплательщика-организации в банке отменяется в случаях, указанных в пункте 3_1, абзаце втором пункта 3_2, пунктах 7-9 настоящей статьи и в пункте 10 статьи 101 настоящего Кодекса, а также по основаниям, предусмотренным иными федеральными законами.<br />
+	<br />
+	В случае, если отмена приостановления операций по счетам налогоплательщика-организации в банке осуществляется по основаниям, предусмотренным иными федеральными законами, принятие налоговым органом решения об отмене приостановления таких операций не требуется.</li>
+	<li class="list__ol-item">В случае нарушения налоговым органом срока отмены решения о приостановлении операций по счетам налогоплательщика-организации в банке или срока направления в банк решения об отмене приостановления операций по счетам налогоплательщика-организации в банке на сумму денежных средств, в отношении которой действовал режим приостановления (на драгоценные металлы, в отношении которых действовал режим приостановления), начисляются проценты, подлежащие уплате налогоплательщику за каждый календарный день нарушения срока.<br />
+	<br />
+	В случае неправомерного вынесения налоговым органом решения о приостановлении операций по счетам налогоплательщика-организации в банке на сумму денежных средств, в отношении которой действовало указанное решение (на драгоценные металлы, в отношении которых действовало указанное решение) налогового органа, начисляются проценты, подлежащие уплате указанному налогоплательщику-организации за каждый календарный день, начиная со дня получения банком решения о приостановлении операций по счетам налогоплательщика до дня получения банком решения об отмене приостановления операций по счетам налогоплательщика-организации.<br />
+	<br />
+	Процентная ставка принимается равной ставке рефинансирования Центрального банка Российской Федерации, действовавшей в дни неправомерного приостановления операций по счетам налогоплательщика-организации, нарушения налоговым органом срока отмены решения о приостановлении операций по счетам налогоплательщика-организации в банке или срока направления в банк решения об отмене приостановления операций по счетам налогоплательщика-организации в банке. При этом стоимость драгоценных металлов определяется исходя из учетной цены на драгоценные металлы, установленной Центральным банком Российской Федерации на дату неправомерного приостановления операций по счетам налогоплательщика-организации, нарушения налоговым органом срока отмены решения о приостановлении операций по счетам налогоплательщика-организации в банке или срока направления в банк решения об отмене приостановления операций по счетам налогоплательщика-организации в банке.</li>
+	<li class="list__ol-item">Положения пунктов 9, 9_1 и 9_2 настоящей статьи применяются также в случае приостановления переводов электронных денежных средств налогоплательщика-организации (пункт дополнительно включен с 30 сентября 2011 года Федеральным законом от 27 июня 2011 года N 162-ФЗ).</li>
+</ol>
+</div>
+
+<div class="btn btn__primary btn__round m btn__modal modal-close">Закрыть</div>
+</div>
+</div></div>]]>
+</data>
+<RESPONSE name="TXT_40_1" event="onbeforecomplete" type="link">
+<ZINDEX pid="TXT_40" z="5001" additive="replace">
+</ZINDEX>
+</RESPONSE>
+<RESPONSE name="TXT_40_2" event="onaftercomplete" type="link">
+<ZINDEX pid="TXT_40" z="5001" additive="replace">
+</ZINDEX>
+</RESPONSE>
+<RESPONSE name="TXT_40_3" event="ondisplay" type="link">
+<ZINDEX pid="TXT_40" z="5001" additive="replace">
+</ZINDEX>
+</RESPONSE>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_5" expanded="yes" sid="80" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Причины приостановления операций по счетам" indent="0">
+<frames>
+<frame id="FRAME_13" expanded="yes" dur="0" infinite="1">
+<object id="TXT_48" expanded="yes" x="30" y="100" w="1180" h="139" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 1180px; height: 139px; box-sizing: border-box;"><h1 class="h2 mb-40">Причины приостановления операций<br> по счетам
+</h1></div>]]>
+</data>
+</object>
+<object id="TXT_49" expanded="yes" x="30" y="260" w="1180" h="290" z="101" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 1180px; height: 290px; box-sizing: border-box;"><div class="h3 mb-20">1. Блокировка за неуплату налогов, взносов, пеней и штрафов
+</div>
+<div class="text text-l">Если компания не исполнила требование инспекции об уплате налогов, взносов, пеней, штрафов в течение 8 рабочих дней после его получения, выносится решение о приостановлении операций. Причем не раньше, чем вынесено решение о взыскании. При этом <span class="text-bold">расходные операции приостанавливаются только в пределах суммы, указанной в решении о приостановлении операций по счетам</span>.
+</div>
+<div class="text text-l">Средства на счетах, которые превышают сумму задолженности, не попадают под ограничения по расчетному счету &ndash; их компания вправе использовать
+  <br />
+  по своему усмотрению.
+</div></div>]]>
+</data>
+</object>
+<object id="TXT_58" expanded="yes" x="30" y="480" w="1180" h="178" z="102" display="frame" begin="0" tranin="12" durin="0.4">
+<data>
+<![CDATA[<div style="width: 1180px; height: 178px; box-sizing: border-box;"><div class="plate plate--icon">
+    <div class="text text-m text-bold text-uppercase">ПРИ ДОЛГЕ МЕНЬШЕ 3 000 РУБ. СЧЕТ НЕ БЛОКИРУЮТ</div>
+    <div class="text text-m">Федеральным законом от 29.09.2019 № 325-ФЗ внесены поправки в статью 46 НК РФ, согласно которым ИФНС может вынести решение о взыскании долга только в случае, если сумма налога, сбора, страховых взносов, штрафов, пеней, превысила 3000 руб. Приостанавливать операции по счетам таким должникам инспекция тоже не может, так как блокировка возможна, только если есть решение о взыскании.
+    </div>
+  </div></div>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+<frame id="FRAME_11" expanded="yes" dur="0" infinite="1">
+<object id="TXT_44" expanded="yes" x="30" y="100" w="1180" h="139" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 1180px; height: 139px; box-sizing: border-box;"><h1 class="h2 mb-40">Причины приостановления операций<br> по счетам
+</h1></div>]]>
+</data>
+</object>
+<object id="TXT_45" expanded="yes" x="30" y="260" w="1180" h="202" z="101" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 1180px; height: 202px; box-sizing: border-box;"><div class="h3 mb-20">2. Блокировка за несдачу налоговых деклараций
+</div>
+<div class="text text-l">Решение о приостановлении операций из-за несвоевременной подачи налоговой декларации может быть принято не раньше, чем через 10 рабочих дней
+  <br />
+  по истечении срока, установленного для сдачи отчетности. Такое право сохраняется за инспекцией в течение трех лет.
+</div>
+<div class="text text-l">При этом на сумму блокировки никаких ограничений нет, т.е. <span class="text-bold">ИФНС вправе заблокировать все деньги на счетах</span>, и компания не сможет осуществлять расходные операции как с деньгами, которые находятся на счете, так и со средствами, которые будут поступать на него в будущем.
+</div></div>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+<frame id="FRAME_12" expanded="yes" dur="0" infinite="1">
+<object id="TXT_46" expanded="yes" x="30" y="100" w="1180" h="139" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 1180px; height: 139px; box-sizing: border-box;"><h1 class="h2 mb-40">Причины приостановления операций<br> по счетам
+</h1></div>]]>
+</data>
+</object>
+<object id="TXT_47" expanded="yes" x="30" y="260" w="1180" h="202" z="101" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 1180px; height: 202px; box-sizing: border-box;"><div class="h3 mb-20">3. Блокировка за несоблюдение правил электронного документооборота
+</div>
+<div class="text text-l">Если организации и ИП, которые должны сдавать отчетность в электронном виде (например, организации, являющиеся плательщиками НДС, обязаны сдавать декларацию по данному налогу в электронном виде), в течение 10 рабочих дней с даты появления этой обязанности не обеспечили электронный документооборот с ИФНС, то налоговая имеет право заблокировать расчетный счет. 
+</div></div>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+<frame id="FRAME_14" expanded="yes" dur="0" infinite="1">
+<object id="TXT_50" expanded="yes" x="30" y="100" w="1180" h="139" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 1180px; height: 139px; box-sizing: border-box;"><h1 class="h2 mb-40">Причины приостановления операций<br> по счетам
+</h1></div>]]>
+</data>
+</object>
+<object id="TXT_51" expanded="yes" x="30" y="260" w="1180" h="317" z="101" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 1180px; height: 317px; box-sizing: border-box;"><div class="h3 mb-20">4. Блокировка за не подтверждение приема документов от налоговой в электронном виде
+</div>
+<div class="text text-l">Организации и ИП должны подтверждать прием трех видов электронных документов, направленных ИФНС: требования о представлении документов, требования о представлении пояснений, а также уведомления о вызове в инспекцию. Подтверждение приема документов происходит путем отправки
+  <br />
+  в ИФНС электронных квитанций о получении таких требований и уведомлений. Отправить квитанцию необходимо в течение 6 рабочих дней со дня<br> их отправки налоговым органом.
+</div>
+<div class="text text-l">Если в отведенный срок юрлицо или предприниматель не подтвердит прием документов, то в течение следующих 10 рабочих дней инспекция вправе заблокировать расчетный счет.
+</div></div>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+<frame id="FRAME_15" expanded="yes" dur="0" infinite="1">
+<object id="TXT_52" expanded="yes" x="30" y="100" w="1180" h="139" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 1180px; height: 139px; box-sizing: border-box;"><h1 class="h2 mb-40">Причины приостановления операций<br> по счетам
+</h1></div>]]>
+</data>
+</object>
+<object id="TXT_53" expanded="yes" x="30" y="260" w="1180" h="317" z="101" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 1180px; height: 317px; box-sizing: border-box;"><div class="h3 mb-20">5. Блокировка за несдачу 6-НДФЛ
+</div>
+<div class="text text-l">Если налоговый агент не представил в налоговую инспекцию расчет сумм исчисленного и удержанного им НДФЛ по форме 6-НДФЛ в течение 10 рабочих дней после срока его сдачи, то ИФНС также вправе заблокировать расчетный счет.
+</div>
+<div class="text text-l">Помимо оснований, перечисленных в статье 76 НК РФ, блокировка счета также возможна, если ИФНС располагает сведениями о том, что организация может скрыть свое имущество от принудительного взыскания для погашения задолженности перед бюджетом (<a class="link" href="#" onclick="$('#TXT_54').show()">пп.2 п.10 ст.101 НК РФ</a>).
+</div></div>]]>
+</data>
+</object>
+<object id="TXT_54" expanded="yes" x="0" y="0" w="1280" h="720" z="102" display="none" begin="0">
+<data>
+<![CDATA[<div style="width: 1280px; height: 720px; box-sizing: border-box;" onbeforecomplete="CL.Resp.Process({ respid: 'TXT_54_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;" onaftercomplete="CL.Resp.Process({ respid: 'TXT_54_2', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;" ondisplay="CL.Resp.Process({ respid: 'TXT_54_3', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"><div class="modal">
+  <div class="modal-content scroll">
+    <div class="modal-content-scroll">
+      <div class="h5 mb-pink">пп.2 п.10 ст.101 НК РФ
+      </div>
+      <div class="text text-l">Приостановление операций по счетам в банке в порядке, установленном статьей 76 настоящего Кодекса.
+      </div>
+      <div class="text text-l">Приостановление операций по счетам в банке в порядке принятия обеспечительных мер может применяться только после наложения запрета на отчуждение (передачу в залог) имущества и в случае, если совокупная стоимость такого имущества по данным бухгалтерского учета меньше общей суммы недоимки, пеней и штрафов, подлежащей уплате на основании решения о привлечении к ответственности за совершение налогового правонарушения или решения об отказе в привлечении к ответственности за совершение налогового правонарушения.
+      </div>
+      <div class="text text-l">Приостановление операций по счетам в банке допускается в отношении разницы между общей суммой недоимки, пеней и штрафов, указанной в решении о привлечении к ответственности за совершение налогового правонарушения или решении об отказе в привлечении к ответственности за совершение налогового правонарушения, и стоимостью имущества, не подлежащего отчуждению (передаче в залог) в соответствии с подпунктом 1 настоящего пункта.
+      </div>
+      <div class="text text-l">В случае, если решение, предусмотренное пунктом 7 настоящей статьи, вынесено по результатам рассмотрения материалов выездной налоговой проверки консолидированной группы налогоплательщиков, установленные настоящей статьей обеспечительные меры могут быть приняты в отношении участников этой группы. При этом в первую очередь обеспечительные меры принимаются в отношении ответственного участника этой группы. При недостаточности принятых в отношении указанного ответственного участника обеспечительных мер для исполнения решения, предусмотренного пунктом 7 настоящей статьи, обеспечительные меры могут быть приняты к иным участникам этой консолидированной группы налогоплательщиков в последовательности и с учетом ограничений, которые установлены пунктом 11 статьи 46 настоящего Кодекса (абзац дополнительно включен с 1 января 2012 года Федеральным законом от 16 ноября 2011 года N 321-ФЗ).
+      </div>
+    </div>
+    <div class="btn btn__primary btn__round m btn__modal modal-close">Закрыть
+    </div>
+  </div>
+</div></div>]]>
+</data>
+<RESPONSE name="TXT_54_1" event="onbeforecomplete" type="link">
+<ZINDEX pid="TXT_54" z="5001" additive="replace">
+</ZINDEX>
+</RESPONSE>
+<RESPONSE name="TXT_54_2" event="onaftercomplete" type="link">
+<ZINDEX pid="TXT_54" z="5001" additive="replace">
+</ZINDEX>
+</RESPONSE>
+<RESPONSE name="TXT_54_3" event="ondisplay" type="link">
+<ZINDEX pid="TXT_54" z="5001" additive="replace">
+</ZINDEX>
+</RESPONSE>
+</object>
+<timeline>
+</timeline>
+</frame>
+<frame id="FRAME_16" expanded="yes" dur="0" infinite="1">
+<object id="TXT_55" expanded="yes" x="30" y="100" w="1180" h="139" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 1180px; height: 139px; box-sizing: border-box;"><h1 class="h2 mb-40">Причины приостановления операций<br> по счетам
+</h1></div>]]>
+</data>
+</object>
+<object id="TXT_56" expanded="yes" x="30" y="260" w="1180" h="317" z="101" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 1180px; height: 317px; box-sizing: border-box;"><div class="h3 mb-20">6. Блокировка по результатам выездной проверки (как обеспечительная мера к противодействию сокрытия имущества)
+</div>
+<div class="text text-l">Если по результатам выездной проверки организации начислены налоги, пени, штрафы, налоговая инспекция имеет право вынести решение о запрете на отчуждение (передачу в залог) некоторых видов имущества организации (недвижимости, транспортных средств и т. д.) без ее согласия. После этого инспекция может заблокировать деньги на счетах в банках на сумму начисленной задолженности, которая не покрыта стоимостью указанного имущества.
+</div></div>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+<frame id="FRAME_17" expanded="yes" dur="0" infinite="1">
+<object id="TXT_57" expanded="yes" x="30" y="100" w="1180" h="139" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 1180px; height: 139px; box-sizing: border-box;"><h1 class="h2 mb-40">Причины приостановления операций<br> по счетам
+</h1></div>]]>
+</data>
+</object>
+<object id="TXT_59" expanded="yes" x="30" y="260" w="1180" h="317" z="101" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 1180px; height: 317px; box-sizing: border-box;"><div class="h3 mb-20">7. Блокировка за несдачу расчета по страховым взносам
+</div>
+<div class="text text-l">С 30 августа 2018 года вступил в силу закон о блокировке счетов от 29.07.2018 № 232-ФЗ, благодаря которому у налоговиков появилось новое основание для приостановления операций по расчетному счету. Теперь счета будут блокировать за несвоевременную сдачу расчета по страховым взносам, если налоговая его не получит в течение 10 дней после окончания срока подачи расчета.
+</div></div>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_6" expanded="yes" sid="81" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Ограничения для блокировки" indent="0">
+<frames>
+<frame id="FRAME_20" expanded="yes" dur="0" infinite="1">
+<object id="TXT_64" expanded="yes" x="30" y="100" w="1180" h="187" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 1180px; height: 187px; box-sizing: border-box;"><h1 class="h2 mb-40">Ограничения для блокировки
+</h1>
+<div class="text text-l">Несмотря на то, что блокировка счета ограничивает возможности организации в использовании денежных средств,<br> некоторые виды платежей все же можно провести.
+</div>
+<div class="text text-l">Дело в том, что <span class="text-bold">блокировка счета не распространяется на:</span>
+</div></div>]]>
+</data>
+</object>
+<object id="TXT_62" expanded="yes" x="30" y="310" w="1240" h="350" z="101" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 1240px; height: 350px; box-sizing: border-box;" ondisplay="CL.Resp.Process({ respid: 'TXT_62_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"><div class="tabs tabs--horizontal">
+  <div class="tab__nav "><a class="tab__links" data-href="#tab-content-1">1</a> <a class="tab__links" data-href="#tab-content-2">2</a>
+  </div>
+  <div class="tab__content"><!-- Tab content -->
+    <div class="tab__item" id="tab-content-1">
+      <div class="text text-l">Платежи по перечислению в бюджет налогов, сборов, страховых взносов, пеней и штрафов. Это значит, что даже после блокировки счета компания может направлять в банк платежные поручения на перечисление в бюджет налогов, сборов и взносов в фонды, а банк обязан эти поручения исполнить.
+      </div>
+    </div>
+    <div class="tab__item" id="tab-content-2">
+      <div class="text text-l">Платежи, очередность которых по гражданскому законодательству предшествует исполнению обязанности по уплате налогов, сборов, пеней и штрафов. Согласно ГК РФ, платежи по банковским счетам проводятся в следующем порядке:
+      </div>
+      <ul class="list__ul text text-l">
+        <li class="list__ul-dash">В первую очередь &mdash; по исполнительным документам о возмещении вреда, причиненного жизни и здоровью, а также требований о взыскании алиментов.</li>
+        <li class="list__ul-dash">Во вторую очередь &mdash; по исполнительным документам для расчетов по выплате выходных пособий и зарплаты увольняющимся сотрудникам, а также по выплате вознаграждений авторам результатов интеллектуальной деятельности.</li>
+        <li class="list__ul-dash">В третью очередь &ndash; по платежным документам для расчетов по зарплате работающим сотрудникам, по поручениям налоговых инспекций и внебюджетных фондов на взыскание задолженности по налогам, сборам и обязательным страховым взносам.</li>
+      </ul>
+    </div>
+  </div>
+</div></div>]]>
+</data>
+<RESPONSE name="TXT_62_1" event="ondisplay" type="link">
+<JAVASCRIPT javascript="tabs();">
+</JAVASCRIPT>
+</RESPONSE>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_7" expanded="yes" sid="82" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Ограничения для блокировки" indent="0">
+<frames>
+<frame id="FRAME_21" expanded="yes" dur="0" infinite="1">
+<object id="TXT_67" expanded="yes" x="30" y="100" w="1180" h="71" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 1180px; height: 71px; box-sizing: border-box;"><h1 class="h2 mb-40">Сроки блокировки счета налоговой
+</h1></div>]]>
+</data>
+</object>
+<object id="TXT_68" expanded="yes" x="30" y="203" w="1180" h="348" z="101" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 1180px; height: 348px; box-sizing: border-box;"><div class="text text-l">Ограничение по счету налоговая снимает после устранения причины блокировки. Продолжительность периода, на который будет заблокирован счет, зависит от того, насколько быстро компания примет меры по устранению причин блокировки.
+  </div>
+<div class="text text-l">Срок разблокировки составляет:
+  </div>
+  <ul class="list__ul text text-l">
+    <li class="list__ul-dash"><span class="text-bold">После оплаты налога, других обязательных платежей и штрафов</span> срок разблокировки не должен превышать 3-х рабочих дней. Исчисляется со дня, когда ИФНС получила информацию из банка или от налогоплательщика.</li>
+    <li class="list__ul-dash"><span class="text-bold">После сдачи отчетности.</span> Не позднее следующего дня ИФНС должна принять решение об отмене ареста счета и направить его в банк. Срок снятия блокировки – не более трех рабочих дней.</li>
+    <li class="list__ul-dash"><span class="text-bold">При устранении нарушений, связанных с электронным документооборотом</span>, срок разблокировки – от одного до трех рабочих дней. Начинается исчисляться в день представления в ИФНС квитанции о получении документов либо дата представления документов, затребованных инспекцией.</li>
+  </ul>
+  <div class="text text-l">Таким образом, чем быстрее устраните причину блокировки, тем быстрее сможете распоряжаться расчетным счетом. Срок снятия ареста – не более трех дней. Если налоговая затягивает сроки – с нее можно получить деньги (см. раздел «Как наказать ИФНС за незаконную блокировку»).
+  </div></div>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+</slides>
+<masters>
+<slide id="SLIDE_MASTER" expanded="yes" sid="1">
+<frames>
+<frame id="FRAME_4" expanded="yes" dur="0" infinite="0">
+<object id="TXT_385" expanded="yes" x="0" y="0" w="1280" h="72" z="0" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 1280px; height: 72px; box-sizing: border-box;" ondisplay="CL.Resp.Process({ respid: 'TXT_385_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"><div class="bg-light-gray" style="font-size: 0px;height:100%;">123
+</div></div>]]>
+</data>
+<RESPONSE name="TXT_385_1" event="ondisplay" type="link">
+<DISPLAY pid="prev" display="none" transition="0" fs_dur="" dur="1000">
+</DISPLAY>
+</RESPONSE>
+</object>
+<object id="OBJ_8" expanded="yes" x="1297" y="135" w="720" h="400" z="1" display="frame" begin="0" type="nav_0002_navi_win">
+<data>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none"  ><div class="rule" data-name="#OBJ_8 .cl-container"><span class="rule-static">width: 720px; height: 400px; min-width: 720px; min-height: 400px; max-width: 720px; max-height: 400px;</span></div><div class="rule" data-name="#OBJ_8 .cl-body"><span class="rule-static">left: 0; top: 0;width: 720px; height: 400px; min-width: 720px; min-height: 400px; max-width: 720px; max-height: 400px;padding: 15px; border: 1px solid #0080C0; background-color: #FFFFFF;
+			</span><span class="rule-dynamic" data-type="border-radius" data-value="5px" /><span class="rule-dynamic" data-type="box-shadow" data-value="2px 2px 6px rgba(102,102,102,0.66)" /></div><div class="rule" data-name="#OBJ_8 .cl-body-header"><span class="rule-static">padding: 0 0 15px 0;</span></div><div class="rule" data-name="#OBJ_8 .slide-list li"><span class="rule-static">padding: 5px 5px 5px 0; font-family: clear_sansregular, Arial, sans-serif;
+		font-size: 16px;
+	</span></div><div class="rule" data-name="#OBJ_8 .open .indent"><span class="rule-static"></span></div><div class="rule" data-name="#OBJ_8 .closed .indent"><span class="rule-static"></span></div><div class="rule" data-name="#OBJ_8 .allowed"><span class="rule-static">background-color: #FFFFFF; color: #004080;</span></div><div class="rule" data-name="#OBJ_8 .current"><span class="rule-static">background-color: #EEEEEE; color: #000000;</span></div><div class="rule" data-name="#OBJ_8 .forbidden"><span class="rule-static">background-color: #FFFFFF; color: #999999;</span></div><div class="rule" data-name="#OBJ_8 .visited .item-inner"><span class="rule-static">background-image: url(images/nav_0002_navi_win/navi_tab_contents_sprite.png); background-position: 0px 0px; background-repeat: no-repeat;</span></div><div class="rule" data-name="#OBJ_8 .current .item-inner"><span class="rule-static">background-image: url(images/nav_0002_navi_win/navi_tab_contents_sprite.png); background-position: 0px -400px; background-repeat: no-repeat;</span></div><div class="rule" data-name="#OBJ_8 .unvisited .item-inner"><span class="rule-static">background-image: url(images/nav_0002_navi_win/navi_tab_contents_sprite.png); background-position: 0px -800px; background-repeat: no-repeat;</span></div><div class="rule" data-name="#OBJ_8 .cl-close-btn"><span class="rule-static">display: none; top: 15px; right: 15px; color: #0080C0;</span></div></div><div id="OBJ_8_CONTAINER" class="cl-container unselectable"  ><div class="cl-body"><div class="cl-btn cl-close-btn" title="Закрыть окно">
+				×
+			</div><div class="cl-body-contents cl-body-contents-contents"><ul class="slide-list" /><ul style="display: none;"><li class="slide-item-template"><div class="indent"><div class="item-inner">
+										.
+									</div></div></li></ul></div></div></div></div>]]>
+</data>
+</object>
+<object id="TXT_235" expanded="yes" x="-206" y="144" w="162" h="103" z="2" display="none" begin="0">
+<data>
+<![CDATA[<div style="width: 162px; height: 103px; box-sizing: border-box;background-color: #c0c0c0;"><h1>Vue.js Components
+</h1>
+<script type="text/x-template" id="lmm-test-container-after-template">
+    <div style="width:100%;">
+        <div class="d-flex">
+            <div class="lmm-answers__question_count" style="min-width: 100px;">
+                <p v-show="questionNumberShow"
+                   class="text-m lmm-text__questions mb-cyan text-light-black">
+                    {{curQuestionNumber + 1}}<span>/{{data.length}}</span></p>
+            </div>
+            <div v-if="data.length > 0" class="lmm-answers__question-single mb-cyan"
+                 style="width:1090px;">
+                <p class="lmm-text lmm-text__questions text-xl mb-cyan text-bold"
+                   ref="question-text"
+                   v-html="data[curQuestionNumber].question_text"></p>
+                <div class="lmm-answers__choose"
+                     v-if="data[curQuestionNumber].question_type === 'radio' || data[curQuestionNumber].question_type === 'checkbox'">
+                    <p class="text-m mb-cyan text-light-black">
+                        {{data[curQuestionNumber].question_type === 'radio' ? 'Выберите один ответ':
+                        'Выберите несколько ответов' }}
+                    </p>
+                </div>
+                <div class="lmm-answers__choose"
+                     v-if="data[curQuestionNumber].question_type === 'sortable' || data[curQuestionNumber].question_type === 'ranking'">
+                    <p class="text-m mb-cyan text-light-black">
+                        {{data[curQuestionNumber].question_type === 'ranking' ? 'Расположите этапы в правильном порядке':
+                        'Соотнесите текст и блок' }}
+                    </p>
+                </div>
+                <div v-if="data[curQuestionNumber].question_type === 'radio'"
+                     class="lmm-answers__q_var">
+                    <div v-for="(answer, index) in data[curQuestionNumber].answers"
+                         :key="answer.answer_text + now" :class="[
+                                                                                        'subordinate-choice border-top-1 radiobox s__item competere border-gray',
+                                                                                        { 'border-bottom-1': index == data[curQuestionNumber].answers.length - 1 }
+                                                                                ]">
+                        <input :checked="answer.is_selected" :disabled="answer.disabled === true"
+                               :id="String(answer.answer_text)"
+                               @change="changeRadioAnswer($event, answer)" name="radio-box-group"
+                               type="radio" class="radiobox s blue">
+                        <label :for="String(answer.answer_text)" :class="['radiobox text-m s__label blue', {
+                                                                                            'bg-red border-red': (answer.is_selected && !answer.is_correct && isInCorrectAnswer),
+                                                                                            'bg-green border-green': (answer.is_correct && (isCorrectAnswer || isInCorrectAnswer)),
+                                                                                            'incorrect': isInCorrectAnswer,
+                                                                                            'correct': isCorrectAnswer
+                                                                                        }]">{{answer.answer_text}}</label>
+                    </div>
+                </div>
+                <div v-else-if="data[curQuestionNumber].question_type === 'checkbox'"
+                     class="lmm-answers__q_var">
+                    <div v-for="(answer, index) in data[curQuestionNumber].answers" :class="[
+                                                                                        'checkbox s__item competere subordinate-choice border-top-1 border-gray',
+                                                                                        { 'border-bottom-1': index == data[curQuestionNumber].answers.length - 1 }
+                                                                                ]"
+                         :key="answer.answer_text + now">
+                        <input :checked="answer.is_selected" :disabled="answer.disabled === true"
+                               @change="changeCheckboxAnswer($event, answer)" name="1"
+                               :id="String(answer.answer_text)"
+                               type="checkbox" class="checkbox s">
+                        <label :for="String(answer.answer_text)" :class="['checkbox text-m s__label blue', {
+                                                                                            'bg-red border-red': (answer.is_selected && !answer.is_correct && isInCorrectAnswer),
+                                                                                            'bg-green border-green': (answer.is_correct && (isCorrectAnswer || isInCorrectAnswer)),
+                                                                                            'incorrect': isInCorrectAnswer,
+                                                                                            'correct': isCorrectAnswer
+                                                                                    }]">{{answer.answer_text}}</label>
+                    </div>
+                </div>
+                <div v-else-if="data[curQuestionNumber].question_type === 'sortable'"
+                     class="lmm-answers__q_var">
+                    <lmm-draggable-vue :message="data[curQuestionNumber].answers"
+                                       :next-question="nextQuestion"
+                                       :next-button-text="nextButtonText"
+                                       :feedback="data[curQuestionNumber].feedback"
+                                       :answers="data[curQuestionNumber].answers_texts">
+                    </lmm-draggable-vue>
+                </div>
+                <div v-else-if="data[curQuestionNumber].question_type === 'ranking'"
+                     class="lmm-answers__q_var">
+                    <lmm-ranking-vue :message="data[curQuestionNumber].answers"
+                                     :next-question="nextQuestion"
+                                     :next-button-text="nextButtonText"
+                                     :feedback="data[curQuestionNumber].feedback"
+                                     :answers="data[curQuestionNumber].answers_texts">
+                    </lmm-ranking-vue>
+                </div>
+            </div>
+        </div>
+        <div class="d-flex">
+            <div style="width: 92.25px;;">
+                &nbsp;
+            </div>
+            <div>
+                <div v-show="showFeedback" class="mb-pink">
+                    <div class="text-m" v-html="feedbackText"></div>
+                </div>
+                <!-- <div v-if="isCorrectAnswer">Верно</div> -->
+                <!-- <div v-if="isInCorrectAnswer">Неверно</div> -->
+                <div class="lmm-answers__accept">
+                    <div class="lmm-answers accept__center">
+                        <button v-if="isApplyQuestionButtonShow" @click="applyQuestion($event)"
+                                class="btn__primary nav">Принять ответ
+                        </button>
+                        <button v-if="isNextButtonShow" @click="nextQuestion($event)"
+                                class="btn__primary nav">{{nextButtonText}}
+                        </button>
+                        <button v-if="isFixButtonShow" @click="fixQuestion()"
+                                class="btn__primary nav lmm-btn__width-160 lmm-margin__right-20 lmm-margin__right_xs-0 lmm-margin__bottom_xs-20">
+                            Попробовать снова
+                        </button>
+                        <button v-if="isDiscoverButtonShow" @click="discoverQuestion()"
+                                class="btn__primary nav">Узнать ответ
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</script>
+<script>
+    Vue.component('lmm-test-container-after', {
+        template: '#lmm-test-container-after-template',
+        props: {
+            data: {
+                type: Array
+            },
+            random: {
+                type: Boolean
+            },
+            closeTestCallback: {
+                type: Function,
+                default: function () {
+                }
+            },
+            questionThreshold: {
+                type: Number
+            },
+            questionNumberShow: {
+                type: Boolean
+            }
+        },
+        data: function () {
+            return {
+                curQuestionNumber: 0,
+                isNextButtonShow: false,
+                isApplyQuestionButtonShow: false,
+                isCorrectAnswer: false,
+                isInCorrectAnswer: false,
+                now: Date.now(),
+                questions: [],
+                showFeedback: false,
+                feedbackText: '',
+                isFixButtonShow: false,
+                isDiscoverButtonShow: false,
+                nextButtonText: ''
+            };
+        },
+        mounted: function () {
+            if (this.curQuestionNumber === this.data.length - 1) {
+                this.nextButtonText = 'Продолжить';
+            } else {
+                this.nextButtonText = 'Следующий вопрос';
+            }
+            if (this.random) {
+                this.shuffleQuestions();
+            }
+            var vm = this;
+            EventBus.$on('reset-assessment', function () {
+                vm.resetAssessment();
+            });
+        },
+        watch: {
+            curQuestionNumber: function () {
+                if (this.curQuestionNumber === this.data.length - 1) {
+                    this.nextButtonText = 'Продолжить';
+                } else {
+                    this.nextButtonText = 'Следующий вопрос';
+                }
+                while (!$('.auto_height')) {
+                }
+                sortable_resize();
+            }
+        },
+        methods: {
+            fixQuestion: function () {
+                this.showFeedback = false;
+                this.feedbackText = '';
+                this.isDiscoverButtonShow = false;
+                this.now = Date.now();
+                this.isCorrectAnswer = false;
+                this.isInCorrectAnswer = false;
+                this.isApplyQuestionButtonShow = false;
+                this.isNextButtonShow = false;
+                this.isFixButtonShow = false;
+                this.data.forEach(function (question) {
+                    question.answers.forEach(function (answer) {
+                        answer.disabled = false;
+                        answer.is_selected = false;
+                    });
+                });
+            },
+            discoverQuestion: function () {
+                this.showFeedback = false;
+                this.feedbackText = '';
+                this.isDiscoverButtonShow = false;
+                this.now = Date.now();
+                this.isCorrectAnswer = false;
+                this.isInCorrectAnswer = false;
+                this.isApplyQuestionButtonShow = false;
+                this.isNextButtonShow = true;
+                this.isFixButtonShow = false;
+                var tooltipColors = this.data[this.curQuestionNumber]["tooltipColors"]
+                var answers = this.data[this.curQuestionNumber].answers;
+                answers.forEach(function (answer) {
+                    answer.disabled = true;
+                    answer.is_selected = !!answer["is_correct"];
+                });
+                $(this.$refs['question-text']).find('span.tooltip-color').each(function (index, el) {
+                    var questionElement = $(el);
+                    var tooltipColorIndex = parseInt($(el).data('tooltip-color'), 10);
+                    answers.filter(function (el) {
+                        if (tooltipColorIndex == el.tooltipColorIndex) {
+                            color = tooltipColors[tooltipColorIndex]
+                            questionElement.addClass(color);
+                            el.tooltipColorStyle = color;
+                        }
+                    })
+                });
+            },
+            getData: function () {
+                this.data = this.data.slice();
+            },
+            shuffleQuestions: function () {
+                this.getData();
+                // this.data.sort(function (el) {
+                //   return .5 - Math.random();
+                // });
+                this.data = this.data.slice(0, this.questionThreshold);
+                this.data.forEach(function (el) {
+                    el.answers.sort(function () {
+                        return .5 - Math.random();
+                    });
+                });
+            },
+            resetAssessment: function () {
+                CLV.oGlobal["test_score"] = 0;
+                this.now = Date.now();
+                this.isCorrectAnswer = false;
+                this.isInCorrectAnswer = false;
+                this.curQuestionNumber = 0;
+                this.isApplyQuestionButtonShow = false;
+                this.isNextButtonShow = false;
+                this.isFixButtonShow = false;
+                this.isDiscoverButtonShow = false;
+                this.data.forEach(function (question) {
+                    question.answers.forEach(function (answer) {
+                        answer.disabled = false;
+                        answer.is_selected = false;
+                    });
+                });
+                this.shuffleQuestions();
+            },
+            applyQuestion: function () {
+                this.now = Date.now();
+                var is_correct = this.checkAnswer();
+                this.isCorrectAnswer = is_correct;
+                this.isInCorrectAnswer = !is_correct;
+                this.isCorrectAnswer && (CLV.oGlobal["test_score"] = ++CLV.oGlobal["test_score"] || 1);
+                this.showFeedback = true;
+                this.isApplyQuestionButtonShow = false;
+                this.isNextButtonShow = true;
+                // this.isNextButtonShow = this.isCorrectAnswer;
+                this.isFixButtonShow = false;
+                // this.isFixButtonShow = !this.isCorrectAnswer;
+                this.isDiscoverButtonShow = false;
+                // this.isDiscoverButtonShow = !this.isCorrectAnswer;
+                if (this.curQuestionNumber === this.data.length - 1) {
+                    this.nextButtonText = 'Продолжить';
+                } else {
+                    this.nextButtonText = 'Следующий вопрос';
+                }
+                var a = this.data[this.curQuestionNumber].answers;
+                for (var i = 0; i < a.length; i++) {
+                    a[i].disabled = true;
+                }
+            },
+            changeRadioAnswer: function ($event, data) {
+                var a = this.data[this.curQuestionNumber].answers;
+                for (var i = 0; i < a.length; i++) {
+                    a[i].is_selected = false;
+                }
+                this.feedbackText = data.feedback;
+                this.isApplyQuestionButtonShow = data.is_selected = $event.target.checked;
+            },
+            changeCheckboxAnswer: function ($event, data) {
+                data.is_selected = $event.target.checked;
+                var a = this.data[this.curQuestionNumber].answers;
+                this.isApplyQuestionButtonShow = false;
+                for (var i = 0; i < a.length; i++) {
+                    if (a[i].is_selected) {
+                        return this.isApplyQuestionButtonShow = true;
+                    }
+                }
+            },
+            closeTest: function () {
+                this.closeTestCallback();
+            },
+            checkRadioType: function () {
+                var a = this.data[this.curQuestionNumber].answers;
+                for (var i = 0; i < a.length; i++) {
+                    if ((a[i].is_correct && !a[i].is_selected) || (!a[i].is_correct && a[i].is_selected)) {
+                        this.feedbackText = this.data[this.curQuestionNumber].negativeFeedback;
+                        return false;
+                    }
+                }
+                this.feedbackText = this.data[this.curQuestionNumber].positiveFeedback
+                return true;
+            },
+            checkCheckboxType: function () {
+                var a = this.data[this.curQuestionNumber].answers;
+                for (var i = 0; i < a.length; i++) {
+                    if ((a[i].is_correct && !a[i].is_selected) || (!a[i].is_correct && a[i].is_selected)) {
+                        this.feedbackText = this.data[this.curQuestionNumber].negativeFeedback;
+                        return false;
+                    }
+                }
+                this.feedbackText = this.data[this.curQuestionNumber].positiveFeedback
+                return true;
+            },
+            checkAnswer: function () {
+                if (this.data[this.curQuestionNumber].question_type === 'radio') {
+                    return this.checkRadioType();
+                } else if (this.data[this.curQuestionNumber].question_type === 'checkbox') {
+                    return this.checkCheckboxType();
+                }
+                throw 'Неизвестный тип теста';
+            },
+            nextQuestion: function ($event) {
+                this.showFeedback = false;
+                this.feedbackText = '';
+                this.isFixButtonShow = false;
+                this.isDiscoverButtonShow = false;
+                this.data[this.curQuestionNumber].answers.forEach(function (answer) {
+                    answer.disabled = false;
+                    answer.is_selected = false
+                    answer.tooltipColorStyle = null;
+                });
+                var tooltipColors = this.data[this.curQuestionNumber]["tooltipColors"]
+                $('span.tooltip-color').each(function (index, el) {
+                    var spanElement = $(el);
+                    tooltipColors.forEach(function (el) {
+                        spanElement.removeClass(el);
+                    });
+                });
+                sortable_resize();
+                if (this.curQuestionNumber === this.data.length - 1) {
+                    this.isNextButtonShow = false;
+                    return this.closeTest();
+                }
+                this.curQuestionNumber++;
+                this.isNextButtonShow = false;
+                this.isCorrectAnswer = false;
+                this.isInCorrectAnswer = false;
+            }
+        }
+    });
+</script>
+<script type="text/x-template" id="lmm-draggable-vue-template">
+    <div>
+        <div class="d-flex">
+            <div class="columns-grop" style="padding-left: 0px;">
+                <p class="text-m auto_height mb-magenta" v-for="(element, index) in answers"
+                   :key="index">
+                    {{element.text}}</p>
+            </div>
+            <div class="columns-grop" style="padding-right: 0px;">
+                <draggable class="list-group" tag="ul" v-model="list" v-bind="dragOptions"
+                           :disabled="disabled"
+                           @start="drag = true" @end="drag = false">
+                    <transition-group type="transition" :name="!drag ? 'flip-list' : null">
+                        <li class="list-group-item" v-for="element in list" :key="element.order">
+                            <i :class="
+                            element.fixed ? 'fa fa-anchor' : 'glyphicon glyphicon-pushpin'
+                        " @click="element.fixed = !element.fixed" aria-hidden="true"></i>
+                            {{ element.name.answer_text }}
+                        </li>
+                    </transition-group>
+                </draggable>
+            </div>
+        </div>
+        <div v-show="showFeedback" class="mb-pink">
+            <div class="text-m" v-html="feedbackText"></div>
+        </div>
+        <div class="lmm-answers__accept">
+            <div class="lmm-answers accept__center">
+                <button v-if="isApplyQuestionButtonShow" @click="checkAnswers()"
+                        class="btn__primary nav">Принять ответ
+                </button>
+                <button v-if="isNextButtonShow" @click="showNextQuestion()"
+                        class="btn__primary nav">{{nextButtonText}}
+                </button>
+                <button v-if="isFixButtonShow" @click="fixQuestion()" class="btn__primary nav
+">Попробовать снова
+                </button>
+                <button v-if="isDiscoverButtonShow" @click="showRightAnswers()"
+                        class="btn__primary nav">Узнать ответ
+                </button>
+            </div>
+        </div>
+    </div>
+</script>
+<script>
+    Vue.component('lmm-draggable-vue', {
+        template: '#lmm-draggable-vue-template',
+        props: {
+            message: {
+                type: Array
+            },
+            nextQuestion: {
+                type: Function,
+                default: function () {
+                }
+            },
+            nextButtonText: {
+                type: String,
+                default: ''
+            },
+            feedback: {
+                type: Object,
+                default: {
+                    positive: '',
+                    negative: ''
+                }
+            },
+            answers: {
+                type: Object
+            }
+        },
+        name: "Sortable",
+        display: "Transitions",
+        order: 4,
+        data: function () {
+            return {
+                list: this.message.map(function (name, index) {
+                    return {
+                        name: name,
+                        order: index + 1
+                    };
+                }),
+                disabled: false,
+                drag: false,
+                showFeedback: false,
+                isApplyQuestionButtonShow: true,
+                isNextButtonShow: false,
+                isFixButtonShow: false,
+                isDiscoverButtonShow: false,
+                feedbackText: ''
+            };
+        },
+        updated: function () {
+            sortable_resize();
+        },
+        mounted: function () {
+            sortable_resize();
+        },
+        methods: {
+            sort: function () {
+                this.list = this.list.sort(function (a, b) {
+                    return a.order - b.order
+                });
+            },
+            showRightAnswers: function () {
+                this.list.forEach(function (el) {
+                    el.order = el.name.correctPosition;
+                });
+                this.sort();
+                sortable_resize();
+                this.showFeedback = false;
+                this.isNextButtonShow = true;
+                this.isDiscoverButtonShow = false;
+                this.isFixButtonShow = false;
+            },
+            checkAnswers: function () {
+                this.disabled = true;
+                this.isApplyQuestionButtonShow = false;
+                var arr = [];
+                var s = 0;
+                this.list.map(function (el) {
+                    arr.push(el.order);
+                });
+                for (var i = 0; i < this.list.length; i++) {
+                    if (i + 1 === this.list[i].name.correctPosition) {
+                        s++;
+                    }
+                }
+                if (s === this.list.length) {
+                    this.isNextButtonShow = true;
+                    CLV.oGlobal["test_score"] = ++CLV.oGlobal["test_score"] || 1;
+                    this.getFeedback(true);
+                } else {
+                    this.isDiscoverButtonShow = false;
+                    // this.isDiscoverButtonShow = true;
+                    this.isFixButtonShow = false;
+                    this.isNextButtonShow = true;
+                    // this.isFixButtonShow = true;
+                    this.showRightAnswers();
+                    this.getFeedback(false);
+                }
+                sortable_resize();
+                this.showFeedback = true;
+            },
+            fixQuestion: function () {
+                this.disabled = false;
+                this.showFeedback = false;
+                this.isApplyQuestionButtonShow = true;
+                this.isNextButtonShow = false;
+                this.isFixButtonShow = false;
+                this.isDiscoverButtonShow = false;
+            },
+            showNextQuestion: function () {
+                this.showFeedback = false;
+                this.disabled = false;
+                this.isNextButtonShow = false;
+                this.isApplyQuestionButtonShow = true;
+                this.nextQuestion();
+            },
+            getFeedback: function (val) {
+                val ? this.feedbackText = this.feedback.positive : this.feedbackText = this.feedback
+                    .negative;
+            },
+        },
+        watch: {
+            message: function (val) {
+                this.list = val.map(function (name, index) {
+                    return {
+                        name: name,
+                        order: index + 1
+                    }
+                });
+            }
+        },
+        computed: {
+            dragOptions: function () {
+                return {
+                    animation: 200,
+                    group: "description",
+                    disabled: false,
+                    // ghostClass: "ghost"
+                };
+            },
+        }
+    });
+</script>
+<script type="text/x-template" id="lmm-ranking-vue-template">
+    <div>
+        <div class="d-flex mb-cyan">
+            <draggable class="list-group" tag="ul" v-model="list" v-bind="dragOptions"
+                       :disabled="disabled"
+                       @start="drag = true" @end="drag = false">
+                <transition-group type="transition" :name="!drag ? 'flip-list' : null">
+                    <li class="list-group-item" v-for="element in list" :key="element.order">
+                        <i :class="
+                            element.fixed ? 'fa fa-anchor' : 'glyphicon glyphicon-pushpin'
+                        " @click="element.fixed = !element.fixed" aria-hidden="true"></i>
+                        {{ element.name.answer_text }}
+                    </li>
+                </transition-group>
+            </draggable>
+        </div>
+        <div v-show="showFeedback" class="mb-cyan">
+            <div class="text-m" v-html="feedbackText"></div>
+        </div>
+        <div class="lmm-answers__accept">
+            <div class="lmm-answers accept__center">
+                <button v-if="isApplyQuestionButtonShow" @click="checkAnswers()"
+                        class="btn__primary nav">Принять ответ
+                </button>
+                <button v-if="isNextButtonShow" @click="showNextQuestion()"
+                        class="btn__primary nav">{{nextButtonText}}
+                </button>
+                <button v-if="isFixButtonShow" @click="fixQuestion()" class="btn__primary nav
+">Попробовать снова
+                </button>
+                <button v-if="isDiscoverButtonShow" @click="showRightAnswers()"
+                        class="btn__primary nav">Узнать ответ
+                </button>
+            </div>
+        </div>
+    </div>
+</script>
+<script>
+    Vue.component('lmm-ranking-vue', {
+        template: '#lmm-ranking-vue-template',
+        props: {
+            message: {
+                type: Array
+            },
+            nextQuestion: {
+                type: Function,
+                default: function () {
+                }
+            },
+            nextButtonText: {
+                type: String,
+                default: ''
+            },
+            feedback: {
+                type: Object,
+                default: {
+                    positive: '',
+                    negative: ''
+                }
+            },
+            answers: {
+                type: Object
+            }
+        },
+        name: "Ranking",
+        display: "Transitions",
+        order: 4,
+        data: function () {
+            return {
+                list: this.message.map(function (name, index) {
+                    return {
+                        name: name,
+                        order: index + 1
+                    };
+                }),
+                disabled: false,
+                drag: false,
+                showFeedback: false,
+                isApplyQuestionButtonShow: true,
+                isNextButtonShow: false,
+                isFixButtonShow: false,
+                isDiscoverButtonShow: false,
+                feedbackText: ''
+            };
+        },
+        updated: function () {
+            ranking_resize();
+        },
+        mounted: function () {
+            ranking_resize();
+        },
+        methods: {
+            sort: function () {
+                this.list = this.list.sort(function (a, b) {
+                    return a.order - b.order
+                });
+            },
+            showRightAnswers: function () {
+                this.list.forEach(function (el) {
+                    el.order = el.name.correctPosition;
+                });
+                this.sort();
+                ranking_resize();
+                this.showFeedback = false;
+                this.isNextButtonShow = true;
+                this.isDiscoverButtonShow = false;
+                this.isFixButtonShow = false;
+            },
+            checkAnswers: function () {
+                this.disabled = true;
+                this.isApplyQuestionButtonShow = false;
+                var arr = [];
+                var s = 0;
+                this.list.map(function (el) {
+                    arr.push(el.order);
+                });
+                for (var i = 0; i < this.list.length; i++) {
+                    if (i + 1 === this.list[i].name.correctPosition) {
+                        s++;
+                    }
+                }
+                if (s === this.list.length) {
+                    this.isNextButtonShow = true;
+                    CLV.oGlobal["test_score"] = ++CLV.oGlobal["test_score"] || 1;
+                    this.getFeedback(true);
+                } else {
+                    this.isDiscoverButtonShow = false;
+                    // this.isDiscoverButtonShow = true;
+                    this.isFixButtonShow = false;
+                    this.isNextButtonShow = true;
+                    // this.isFixButtonShow = true;
+                    this.showRightAnswers();
+                    this.getFeedback(false);
+                }
+                ranking_resize();
+                this.showFeedback = true;
+            },
+            fixQuestion: function () {
+                this.disabled = false;
+                this.showFeedback = false;
+                this.isApplyQuestionButtonShow = true;
+                this.isNextButtonShow = false;
+                this.isFixButtonShow = false;
+                this.isDiscoverButtonShow = false;
+            },
+            showNextQuestion: function () {
+                this.showFeedback = false;
+                this.disabled = false;
+                this.isNextButtonShow = false;
+                this.isApplyQuestionButtonShow = true;
+                this.nextQuestion();
+            },
+            getFeedback: function (val) {
+                val ? this.feedbackText = this.feedback.positive : this.feedbackText = this.feedback
+                    .negative;
+            },
+        },
+        watch: {
+            message: function (val) {
+                this.list = val.map(function (name, index) {
+                    return {
+                        name: name,
+                        order: index + 1
+                    }
+                });
+            }
+        },
+        computed: {
+            dragOptions: function () {
+                return {
+                    animation: 200,
+                    group: "description",
+                    disabled: false,
+                    // ghostClass: "ghost"
+                };
+            },
+        }
+    });
+</script></div>]]>
+</data>
+</object>
+<object id="progress_bar_frames" expanded="yes" x="0" y="70" w="1280" h="2" z="3" display="frame" begin="0" type="nav_015_progress">
+<data>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none"  ><div class="rule" data-name="#progress_bar_frames .cl-progress-bg-var"><span class="rule-static">width: 1280px;</span></div><div class="rule" data-name="#progress_bar_frames .cl-progress-slidename-var"><span class="rule-static">font-family: robotoblack, 'Arial Black', Gadget, sans-serif; font-size: 14px;  color: #004080;</span></div><div class="rule" data-name="#progress_bar_frames .cl-progress-slidename-top-var"><span class="rule-static">padding: 0 0 0px 0;</span></div><div class="rule" data-name="#progress_bar_frames .cl-progress-slidename-bottom-var"><span class="rule-static">padding: 0px 0 0 0;</span></div><div class="rule" data-name="#progress_bar_frames .cl-table-var"><span class="rule-static">width: inherit;</span></div><div class="rule" data-name="#progress_bar_frames .cl-bar-info-var"><span class="rule-static">font-family: robotoblack, 'Arial Black', Gadget, sans-serif; font-size: 14px;  color: #004080;</span></div><div class="rule" data-name="#progress_bar_frames .cl-bar-info-left-var"><span class="rule-static">padding: 0 0px 0 0;</span></div><div class="rule" data-name="#progress_bar_frames .cl-bar-info-right-var"><span class="rule-static">padding: 0 0 0 0px;</span></div><div class="rule" data-name="#progress_bar_frames .cl-bar-box-var"><span class="rule-static">width: 100%;</span></div><div class="rule" data-name="#progress_bar_frames .cl-scale-var"><span class="rule-static">width: inherit; height: 2px; border: solid 0px #FFFFFF; background-color: #FFFFFF; overflow: hidden;</span></div><div class="rule" data-name="#progress_bar_frames .cl-bar-var"><span class="rule-static">position: absolute; width: 50%; height: 2px; background-color: #7658E0;</span></div></div><div class="cl-container unselectable"  ><div class="cl-progress-bg cl-progress-bg-var"><div class="cl-progress-box"><table cellpadding="0" cellspacing="0" border="0" class="cl-table cl-table-var"><tr><td class="cl-table-td cl-bar-box cl-bar-box-var"><div class="cl-scale cl-scale-var"><div class="cl-bar cl-bar-var">
+											 
+										</div></div></td></tr></table></div></div></div></div>]]>
+</data>
+</object>
+<object id="resources" expanded="yes" x="-226" y="4" w="200" h="100" z="4" display="frame" begin="0" type="009_storage">
+<data>
+<![CDATA[<div class="cl-wrapper" style=""><div style="display: none" ><div>images/OpenSans-Bold.otf</div><div>images/OpenSans-BoldItalic.otf</div><div>images/OpenSans-CondensedBold.otf</div><div>images/OpenSans-SemiboldItalic.eot</div><div>images/OpenSans-SemiboldItalic.woff</div><div>images/OpenSans-SemiboldItalic.woff2</div><div>images/OpenSans-LightItalic.eot</div><div>images/OpenSansLight-Italic.woff</div><div>images/OpenSans-LightItalic.woff2</div><div>images/OpenSans.woff</div><div>images/OpenSans-Regular.eot</div><div>images/OpenSans-Regular.woff2</div><div>images/OpenSans-Semibold.eot</div><div>images/OpenSans-Semibold.woff</div><div>images/OpenSans-Semibold.woff2</div><div>images/OpenSans-Light.eot</div><div>images/OpenSans-Light.woff</div><div>images/OpenSans-Light.woff2</div><div>images/OpenSans-CondensedLightItalic.woff</div><div>images/OpenSans-CondLightItalic.eot</div><div>images/OpenSans-CondLightItalic.woff2</div><div>images/OpenSans-ExtraBold.eot</div><div>images/OpenSans-Extrabold.woff</div><div>images/OpenSans-ExtraBold.woff2</div><div>images/OpenSans-ExtraBoldItalic.eot</div><div>images/OpenSans-ExtraboldItalic.woff</div><div>images/OpenSans-ExtraBoldItalic.woff2</div><div>images/OpenSans-Italic.eot</div><div>images/OpenSans-Italic.woff</div><div>images/OpenSans-Italic.woff2</div><div>images/OpenSans-CondensedLight.woff</div><div>images/OpenSans-CondLightItalic.eot</div><div>images/OpenSans-ExtraBold.eot</div><div>images/OpenSans-Extrabold.woff</div><div>images/OpenSans-ExtraBoldItalic.eot</div><div>images/OpenSans-ExtraboldItalic.woff</div><div>images/OpenSans-ExtraBoldItalic.woff2</div><div>images/OpenSans-Italic.eot</div><div>images/OpenSans-Italic.woff</div><div>images/OpenSans-Italic.woff2</div><div>images/OpenSans-SemiboldItalic.ttf</div><div>images/OpenSans-Semibold.ttf</div><div>images/OpenSans-Regular.ttf</div><div>images/OpenSans-LightItalic.ttf</div><div>images/OpenSans-Light.ttf</div><div>images/OpenSans-Italic.ttf</div><div>images/OpenSans-ExtraBoldItalic.ttf</div><div>images/OpenSans-ExtraBold.ttf</div><div>images/OpenSans-CondLightItalic.ttf</div><div>images/OpenSans-CondLight.ttf</div><div>images/OpenSans-CondBold.ttf</div><div>images/OpenSans-BoldItalic.ttf</div><div>images/OpenSans-BoldItalic.eot</div><div>images/OpenSans-BoldItalic.woff</div><div>images/OpenSans-Light.otf</div><div>images/OpenSans-Italic.otf</div><div>images/OpenSans-ExtraboldItalic.otf</div><div>images/OpenSans-Semibold.otf</div><div>images/OpenSansLight-Italic.otf</div><div>images/OpenSans-CondensedLightItalic.otf</div><div>images/OpenSans-CondensedLight.otf</div><div>images/OpenSans-Extrabold.otf</div><div>images/OpenSans-Semibold.otf</div><div>images/OpenSans.otf</div><div>images/OpenSans-SemiboldItalic.otf</div><div>images/OpenSans-CondensedBold.woff</div><div>images/top.png</div><div>images/about_course_o.png</div><div>images/about_course_n.png</div><div>images/about_devs_n.png</div><div>images/about_devs_o.png</div><div>images/autors_close_n.png</div><div>images/autors_close_o.png</div><div>images/OpenSans-SemiboldItalic.svg</div><div>images/OpenSans-Semibold.svg</div><div>images/OpenSansLight-Italic.svg</div><div>images/OpenSans-Light.svg</div><div>images/OpenSans-Italic.svg</div><div>images/OpenSans-ExtraboldItalic.svg</div><div>images/OpenSans-CondensedLightItalic.svg</div><div>images/OpenSans-CondensedBold.svg</div><div>images/OpenSans-CondensedLight.svg</div><div>images/OpenSans-BoldItalic.svg</div><div>images/OpenSans-Bold.svg</div><div>images/OpenSans.svg</div><div>images/OpenSans.svg</div><div>images/OpenSans.woff</div><div>images/OpenSans-Regular.eot</div><div>images/OpenSans-Regular.woff2</div><div>images/OpenSans.ttf</div><div>images/OpenSans-Bold.woff2</div><div>images/OpenSans-Bold.woff</div><div>images/OpenSans-Bold.woff2</div><div>images/soft_bg_blue.png</div><div>images/autors_btn_url_n.png</div><div>images/autors_btn_url_o.png</div><div>images/autors_btn_url_n.png</div><div>images/autors_btn_url_o.png</div><div>images/soft_bg_blue.png</div><div>images/glossary_btn_a.png</div><div>images/glossary_btn_n.png</div><div>images/glossary_btn_o.png</div><div>images/menu_btn_n.png</div><div>images/menu_btn_o.png</div><div>images/menu_btn_o.png</div></div></div>]]>
+</data>
+</object>
+<object id="titul" expanded="yes" x="190" y="27" w="700" h="18" z="5" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 700px; height: 18px; box-sizing: border-box;"><p class="title">Приостановление операций по счетам в банках</p></div>]]>
+</data>
+</object>
+<object id="close_menu" expanded="yes" x="1079" y="-71" w="120" h="38" z="6" display="none" begin="0" type="nav_0000_btn_universal">
+<data>
+<![CDATA[<div class="cl-wrapper" style="cursor: pointer;" onclick="CL.Resp.Process({ respid: 'close_menu_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"><div class="style-custom" style="display: none" ><div class="rule" data-name="#close_menu .cl-btn"><span class="rule-static">width: 120px; height: 38px;</span></div></div><div class="cl-container unselectable" ><div class="cl-btn idle"><img border="0" class="cl-img-idle" src="images/close_btn_n.png" title="" /><img border="0" class="cl-img-over" src="images/close_btn_n.png" title="" /><img border="0" class="cl-img-disabled" src="images/close_btn_n.png" title="" /></div></div></div>]]>
+</data>
+<RESPONSE name="close_menu_1" event="onclick" type="link">
+<JAVASCRIPT javascript="$(&apos;#close_menu&apos;).hide();
+$(&apos;#menu_btn&apos;).show();
+$(&apos;#menu&apos;).fadeOut(600);
+">
+</JAVASCRIPT>
+</RESPONSE>
+</object>
+<object id="next" expanded="yes" x="686" y="661" w="178" h="44" z="7" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 178px; height: 44px; box-sizing: border-box;cursor: pointer;" onclick="CL.Resp.Process({ respid: 'next_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"><button class="btn__primary nav"><span>Продолжить</span> <svg class="icon__right" fill="none" height="18" viewbox="0 0 10 18" width="10" xmlns="http://www.w3.org/2000/svg"> <path d="M1 1L9 9L1 17" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path> </svg></button></div>]]>
+</data>
+<RESPONSE name="next_1" event="onclick" type="link">
+<GOTO option="1" fs_frame="" pid="">
+</GOTO>
+</RESPONSE>
+</object>
+<object id="menu_btn_old" expanded="yes" x="1080" y="12" w="120" h="38" z="8" display="none" begin="0" type="nav_0000_btn_universal">
+<data>
+<![CDATA[<div class="cl-wrapper" style="cursor: pointer;" onclick="CL.Resp.Process({ respid: 'menu_btn_old_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"><div class="style-custom" style="display: none" ><div class="rule" data-name="#menu_btn_old .cl-btn"><span class="rule-static">width: 120px; height: 38px;</span></div></div><div class="cl-container unselectable" ><div class="cl-btn idle"><img border="0" class="cl-img-idle" src="images/menu_btn_n.png" title="" /><img border="0" class="cl-img-over" src="images/menu_btn_o.png" title="" /><img border="0" class="cl-img-disabled" src="images/menu_btn_n.png" title="" /></div></div></div>]]>
+</data>
+<RESPONSE name="menu_btn_old_1" event="onclick" type="link">
+<JAVASCRIPT javascript="resetMenu();
+$(&apos;#close_menu&apos;).show();
+$(&apos;#IMG_52&apos;).fadeIn(610);
+$(&apos;#menu&apos;).fadeIn(600);
+">
+</JAVASCRIPT>
+</RESPONSE>
+</object>
+<object id="menu_btn" expanded="yes" x="1112" y="14" w="138" h="45" z="9" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 138px; height: 45px; box-sizing: border-box;cursor: pointer;" onclick="CL.Resp.Process({ respid: 'menu_btn_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"><button class="btn__outline m"><span>Содержание</span>
+</button></div>]]>
+</data>
+<RESPONSE name="menu_btn_1" event="onclick" type="link">
+<JAVASCRIPT javascript="resetMenu();
+
+$(&apos;#glossary&apos;).fadeOut(300);
+
+$(&apos;#menu&apos;).fadeIn(300);
+$(&apos;#close_menu&apos;).show();
+
+$(&apos;.menu_btn&apos;).addClass(&apos;active&apos;);
+$(&apos;.menu_btn&apos;).removeClass(&apos;non-active&apos;);
+
+$(&apos;.glossary_btn&apos;).addClass(&apos;non-active&apos;);
+$(&apos;.glossary_btn&apos;).removeClass(&apos;active&apos;);">
+</JAVASCRIPT>
+</RESPONSE>
+</object>
+<object id="menu" expanded="yes" x="0" y="72" w="1280" h="648" z="10" display="none" begin="0">
+<data>
+<![CDATA[<div style="width: 1280px; height: 648px; box-sizing: border-box;"><div class="contents_bg">
+  <div class="contents_wrap">
+    <div class="contents-close">&nbsp;
+    </div>
+    <div class="contents_wrap_bg">
+      <div class="row mt-green mb-yellow">
+        <div class="h2">Содержание
+        </div>
+      </div>
+      <p class="contents_item-list title first js-nav-link" data-frame="FRAME_37">Общие положения о приостановлении операций по счетам в банке
+      </p>
+      <div class="contents_item-list js-nav-link disabled" data-frame="FRAME_78">
+        <p>Процедура приостановления операций по счетам
+        </p>
+      </div>
+      <div class="contents_item-list js-nav-link disabled" data-frame="FRAME_13">
+        <p>Причины приостановления операций по счетам
+        </p>
+      </div>
+      <div class="contents_item-list js-nav-link disabled" data-frame="FRAME_20">
+        <p>Ограничения для блокировки
+        </p>
+      </div>
+      <div class="contents_item-list js-nav-link disabled" data-frame="FRAME_21">
+        <p>Сроки блокировки счета налоговой
+        </p>
+      </div>
+    </div>
+  </div>
+</div></div>]]>
+</data>
+</object>
+<object id="prev" expanded="yes" x="425" y="661" w="142" h="44" z="11" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 142px; height: 44px; box-sizing: border-box;cursor: pointer;" onclick="CL.Resp.Process({ respid: 'prev_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"><button class="btn__prev">
+  <svg class="icon__left" fill="none" height="18" viewbox="0 0 10 18" width="10" xmlns="http://www.w3.org/2000/svg"> 
+    <path d="M9 1L1 9L9 17" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5">
+    </path> 
+  </svg> <span>Назад</span>
+</button></div>]]>
+</data>
+<RESPONSE name="prev_1" event="onclick" type="link">
+<GOTO option="2" fs_frame="" pid="">
+</GOTO>
+</RESPONSE>
+</object>
+<object id="slider_counter" expanded="yes" x="574" y="661" w="107" h="50" z="12" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 107px; height: 50px; box-sizing: border-box;"><div class="slide__counter">
+<p>&nbsp;</p>
+</div></div>]]>
+</data>
+</object>
+<object id="counter" expanded="yes" x="582" y="654" w="80" h="55" z="13" display="frame" begin="0" type="nav_0001_position">
+<data>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#counter .cl-position-table"><span class="rule-static">width: 80px; height: 55px;</span></div><div class="rule" data-name="#counter .cl-position-table td"><span class="rule-static">width: 80px; height: 55px;</span></div><div class="rule" data-name="#counter .cl-position"><span class="rule-static">color: #7658E0; font-size: 24px; font-family: Tahoma,Verdana,Segoe,sans-serif; </span></div></div><div class="cl-container unselectable" ><table class="cl-position-table"><tr><td><div class="cl-position"><span class="cl-label"></span><span class="cl-value" cl-role="slide-number">N</span><span class="cl-divider">/</span><span class="cl-total" cl-role="slide-total">M</span></div></td></tr></table></div></div>]]>
+</data>
+</object>
+<object id="IMG_39" expanded="yes" x="30" y="25" w="116" h="22" z="14" display="frame" begin="0" preload="images/logo.png">
+<data>
+<![CDATA[<img src="images/logo.png" style="width: 116px; height: 22px;border-width: 0px;"/>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+</masters>
+<methods>
+<method type="nav_0002_navi_win" name="Constructor">
+<![CDATA[function Constructor(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurDiv = $(oCurObj.div);
+				oCurObj.bShowInternal = true;
+				var jContainer = jCurDiv.find(".cl-container");
+				jContainer.find(".cl-btn").on("click", function () { oCurObj.CallMethod({ sMethod: "Close" }) });
+				oCurObj.initial.nZ = 5000;
+				oCurObj.data =
+				{
+					aTogglers: [],
+					bNaviStrict: (oCurObj.jxParams.children("nav_lock").text()=="yes"),
+					bNaviLockedByAction: false,
+					bModal: (oCurObj.jxParams.children("modal").text()=="yes"),
+					bSearchTip: (oCurObj.jxParams.children("search_tip").text()=="yes"),
+					sSlideId: "",
+					sRole: oCurObj.jxParams.children("contenttype").text(),
+					sState: "enabled",
+					sPosition: "closed",
+					sSoundClick: oCurObj.jxParams.children("sound_click").text(),
+					sSoundOver: oCurObj.jxParams.children("sound_over").text()
+				};
+				if(oCurObj.data.sSoundClick=="custom")
+				{
+					oCurObj.data.sSoundClickFile = oCurObj.jxParams.children("sound_click_file_custom").text();
+				}
+				if(oCurObj.data.sSoundOver=="custom")
+				{
+					oCurObj.data.sSoundOverFile = oCurObj.jxParams.children("sound_over_file_custom").text();
+				}
+				var jxToggle = CL.jxModule.find("param > target_object");
+				var sTogglerId;
+				for(var i=0; i<jxToggle.length; i++)
+				{
+					if($(jxToggle[i]).text()==argobj.pid)
+					{
+						sTogglerId = $(jxToggle[i]).parent().attr("objectid");
+						oCurObj.data.aTogglers.push(sTogglerId);
+						if(oCurObj.data.sRole=="contents")
+						{
+							if(CLO[sTogglerId]!=null)
+							{
+								if(CLO[sTogglerId].data!=null)
+								{
+									CLO[sTogglerId].data.sRole = "contents";
+								}
+							}
+						}
+					}
+				}
+				var iTranIn = parseInt(oCurObj.jxParams.children("tranin").text(),10);
+				if(iTranIn==-2 && oCurObj.tranin!=null)
+				{
+					oCurObj.data.bTranIn = true;
+					oCurObj.data.iTranIn = oCurObj.tranin.transition;
+					oCurObj.data.iDurIn = oCurObj.tranin.duration;
+				}
+				else if(iTranIn>=0)
+				{
+					oCurObj.data.bTranIn = true;
+					oCurObj.data.iTranIn = iTranIn;
+					oCurObj.data.iDurIn = parseInt(oCurObj.jxParams.children("durin").text(),10);
+				}
+				else
+				{
+					oCurObj.data.bTranIn = false;
+				}
+				var iTranOut = parseInt(oCurObj.jxParams.children("tranout").text(),10);
+				if(iTranOut==-2 && oCurObj.tranout!=null)
+				{
+					oCurObj.data.bTranOut = true;
+					oCurObj.data.iTranOut = oCurObj.tranout.transition;
+					oCurObj.data.iDurOut = oCurObj.tranout.duration;
+				}
+				else if(iTranOut>=0)
+				{
+					oCurObj.data.bTranOut = true;
+					oCurObj.data.iTranOut = iTranOut;
+					oCurObj.data.iDurOut = parseInt(oCurObj.jxParams.children("durout").text(),10);
+				}
+				else
+				{
+					oCurObj.data.bTranOut = false;
+				}
+				oCurObj.CallMethod({ sMethod: "InitRole" });
+				jCurDiv.hide();
+				CL.Event.Subscribe({ aList: [ { sId: argobj.pid, sEvtName: "EVENT_OBJECT_SHOW" }, { sId: argobj.pid, sEvtName: "EVENT_SLIDE_OPENED" }, { sId: argobj.pid, sEvtName: "EVENT_SLIDE_COMPLETE" }, { sId: argobj.pid, sEvtName: "EVENT_NAVIGATION" } ] });
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="HandleEvt">
+<![CDATA[function HandleEvt(oEvtHandler, oArg)
+			{
+				if(CLO[argobj.pid]==null || CLO[argobj.pid].div==null) return false;
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				switch(argobj.evt)
+				{
+					case "EVENT_OBJECT_SHOW":
+					{
+						oCurObj.data.sPosition = "open";
+						break;
+					}
+					case "EVENT_SLIDE_OPENED":
+					{
+						oCurObj.CallMethod({ sMethod: "Close" });
+						if(oCurObj.data.sRole=="contents" || oCurObj.data.sRole=="settings" || oCurObj.data.sRole=="comment")
+						{
+							oCurObj.CallMethod({ sMethod: "Update" });
+						}
+						if(oCurObj.data.sSlideId!=CLZ.sCurrentSlideId)
+						{
+							oCurObj.data.sSlideId = CLZ.sCurrentSlideId;
+							oCurObj.data.bNaviLockedByAction = false;
+						}
+						oCurObj.CallMethod({ sMethod: ((oCurObj.data.bNaviStrict || oCurObj.data.bNaviLockedByAction) ? "Disable" : "Enable") });
+						break;
+					}
+					case "EVENT_SLIDE_COMPLETE":
+					{
+						oCurObj.CallMethod({ sMethod: ((oCurObj.data.bNaviLockedByAction) ? "Disable" : "Enable") });
+						break;
+					}
+					case "EVENT_NAVIGATION":
+					{
+						if(argobj.sTargets!=null)
+						{
+							if(argobj.sTargets=="tabs" || argobj.sTargets=="all" || (argobj.sTargets=="contents" && oCurObj.data.sRole=="contents"))
+							{
+								switch(argobj.sAction)
+								{
+									case "off":
+									{
+										oCurObj.data.bNaviLockedByAction = true;
+										oCurObj.CallMethod({ sMethod: "Disable" });
+										break;
+									}
+									case "on":
+									default:
+									{
+										oCurObj.data.bNaviLockedByAction = false;
+										oCurObj.CallMethod({ sMethod: "Enable" });
+										break;
+									}
+								}
+							}
+						}
+						break;
+					}
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="InitRole">
+<![CDATA[function InitRole(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				var jContainer = $(oCurObj.div).find(".cl-container");
+				var iPadding = +oCurObj.jxParams.find("panel_padding").text();
+				var iBorder = +oCurObj.jxParams.find("panel_borderwidth").text();
+				var iFullH = oCurObj.initial.h;
+				var iRadius = +oCurObj.jxParams.find("panel_radius").text();
+				var iCloseH = (iRadius > iPadding) ? iRadius + 20 : iPadding + 20;
+				var iHH = 0;
+				var jHeader = jContainer.find(".cl-body-header");
+				if(jHeader.length>0)
+				{
+					iHH = jHeader.outerHeight();
+					if(iHH<iCloseH) iHH = iCloseH;
+				}
+				else
+				{
+					iHH = iCloseH;
+				}
+				iH = iFullH - iHH - 2*iPadding - 2*iBorder;
+				jContainer.find(".cl-body-contents").height(iH);
+				switch(oCurObj.data.sRole)
+				{
+					case "contents":
+					{
+						var jTemplate = jContainer.find("li.slide-item-template");
+						var jUL = jContainer.find("ul.slide-list");
+						var jxSlide;
+						var jLI;
+						var sSlideId;
+						var bPrevVisited = true;
+						var iIndent;
+						var iPrevIndent = 0;
+						var aPath = CL.oPath._GetSlideList();
+						for(var i=0; i<aPath.length; i++)
+						{
+							sSlideId = aPath[i];
+							jxSlide = CL.jxModule.find("slide[id='" + sSlideId + "']");
+							jLI = jTemplate.clone(true).removeClass("slide-item-template").addClass("slide-item").attr({ "data-slide-id": sSlideId }).appendTo(jUL);
+							jLI.on("click", function () { CLO[argobj.pid].CallMethod({ sMethod: "Navigate", oMethodArgs: { elem: this } }) });
+							jLI.find(".item-inner").html(jxSlide.attr("name"));
+							if(jxSlide.attr("indent")!=null)
+							{
+								iIndent = +jxSlide.attr("indent");
+								if(iIndent!=0)
+								{
+									jLI.addClass("indent-" + iIndent);
+									if(iIndent>iPrevIndent && CL.axSlides[i-1]!=0)
+									{
+										jLI.prev().addClass("open");
+										iPrevIndent = iIndent;
+									}
+								}
+								else
+								{
+									iPrevIndent = 0;
+								}
+							}
+							else
+							{
+								iPrevIndent = 0;
+							}
+							if(sSlideId==CLZ.sCurrentSlideId)
+							{
+								jLI.addClass("current");
+								bPrevVisited = true;
+							}
+							else if(CL.SCO.IsVisited({ sBy: "slideid", sSlideId: sSlideId }))
+							{
+								jLI.addClass("allowed visited");
+								bPrevVisited = true;
+							}
+							else
+							{
+								if(bPrevVisited==true)
+								{
+									jLI.addClass("allowed unvisited");
+									bPrevVisited = false;
+								}
+								else if(!CLZ.bStrictOrder)
+								{
+									jLI.addClass("allowed unvisited");
+								}
+								else
+								{
+									jLI.addClass("forbidden unvisited");
+								}
+							}
+						}
+						break;
+					}
+					case "search":
+					{
+						jContainer.find(".cl-search-results-list, .cl-search-found, .cl-search-no-results").hide();
+						jContainer.find(".cl-search-btn").on("click", function () { CLO[argobj.pid].CallMethod({ sMethod: "Search" }) });
+						jContainer.find(".cl-search-field").on("keydown", function () { CLO[argobj.pid].CallMethod({ sMethod: "SearchTip" }) });
+						break;
+					}
+					case "glossary":
+					{
+						var jLetterBox = jContainer.find(".cl-letters-box");
+						if(jLetterBox.length!=0)
+						{
+							var iMaxW = -1;
+							var jLetters = jLetterBox.find(".cl-letter-item");
+							jLetters.each(function ()
+							{
+								var iW = $(this).width();
+								if(iW>iMaxW) iMaxW = iW;
+							});
+							jLetters.each(function ()
+							{
+								$(this).width(iMaxW);
+							});
+							iHH = jLetterBox.outerHeight();
+							iH = iH - iHH;
+						}
+						jContainer.find(".cl-terms-list-container").height(iH);
+						jContainer.find(".cl-terms-desc").height(iH);
+						iH -= 2*iPadding;
+						jContainer.find(".cl-terms-desc-container").height(iH);
+						jContainer.find(".cl-terms-desc-default-table").height(iH);
+						jContainer.find(".cl-terms-desc-default-cell").height(iH);
+						if(jContainer.find(".cl-letter-item").length>0)
+						{
+							jContainer.find(".cl-letter-item").on("click", function () { oCurObj.CallMethod({ sMethod: "Filter", oMethodArgs: { elem: this } }) });
+						}
+						jContainer.find(".cl-term-item").on("click", function () { oCurObj.CallMethod({ sMethod: "Display", oMethodArgs: { elem: this } }) });
+						break;
+					}
+					case "calculator":
+					{
+						jContainer.find(".calc-btn").on("click", function () { oCurObj.CallMethod({ sMethod: "HandleCalc", oMethodArgs: { elem: this } }) });
+						oCurObj.data.sOperandA = "na";
+						oCurObj.data.sOperatorA = "na";
+						oCurObj.data.sOperandB = "na";
+						oCurObj.data.sLastBtn = "na";
+						oCurObj.data.sMemory = "na";
+						oCurObj.data.bClean = false;
+						oCurObj.data.bEqual = false;
+						oCurObj.data.bPercent = false;
+						break;
+					}
+					case "settings":
+					{
+						oCurObj.data.sObjToDisplay = oCurObj.jxParams.children("settings_display").text();
+						oCurObj.data.bCustomIcons = (oCurObj.jxParams.children("settings_icons").text()=="custom");
+						oCurObj.data.sScoreDisplayType = oCurObj.jxParams.children("score_style").text();
+						var jTemplate = jContainer.find(".cl-sett-row-template");
+						var jTable = jTemplate.parents("table:first");
+						var jTR;
+						var jTD;
+						for(var sObjId in CLJ)
+						{
+							if(oCurObj.data.sObjToDisplay=="main" && CLJ[sObjId].bModule.toString()!="1") continue;
+							if(oCurObj.data.sObjToDisplay=="other" && CLJ[sObjId].bModule.toString()=="1") continue;
+							jTR = jTemplate.clone(true).attr({ "data-obj-id": sObjId }).removeClass("cl-sett-row-template");
+							jTR.children("td.cl-sett-name").html(CLJ[sObjId].sName);
+							if(oCurObj.data.sScoreDisplayType=="raw")
+							{
+								jTR.children("td.cl-sett-score").html(CLJ[sObjId].nRawScore);
+							}
+							else if(oCurObj.data.sScoreDisplayType=="rawmax")
+							{
+								jTR.children("td.cl-sett-score").html(CLJ[sObjId].nRawScore + "(" + CLJ[sObjId].nMax + ")");
+							}
+							else if(oCurObj.data.sScoreDisplayType=="scaled")
+							{
+								if(CLJ[sObjId].nMax!=0)
+								{
+									jTR.children("td.cl-sett-score").html( Math.round(100*CLJ[sObjId].nRawScore/CLJ[sObjId].nMax)/100 + "%");
+								}
+								else
+								{
+									jTR.children("td.cl-sett-score").html(CLJ[sObjId].nRawScore);
+								}
+							}
+							if(oCurObj.data.bCustomIcons)
+							{
+								jTD = jTR.children("td.sett-cs");
+								jTD.attr({ "title": jTD.attr("data-title-cs-" + CLJ[sObjId].sCS),"data-obj-id": sObjId });
+								jTD.find("img").hide();
+								jTD.find("img.sett-cs-" + CLJ[sObjId].sCS).show();
+								jTD = jTR.children("td.sett-ss");
+								jTD.attr({ "title": jTD.attr("data-title-ss-" + CLJ[sObjId].sSS),"data-obj-id": sObjId });
+								jTD.find("img").hide();
+								jTD.find("img.sett-ss-" + CLJ[sObjId].sSS).show();
+							}
+							else
+							{
+								jTD = jTR.children("td.sett-cs");
+								jTD.attr({ "title": jTD.attr("data-title-cs-" + CLJ[sObjId].sCS),"data-obj-id": sObjId });
+								jTD.find("div.cl-sett-status").addClass("cl-sett-status-" + CLJ[sObjId].sCS);
+								jTD = jTR.children("td.sett-ss");
+								jTD.attr({ "title": jTD.attr("data-title-ss-" + CLJ[sObjId].sSS),"data-obj-id": sObjId });
+								jTD.find("div.cl-sett-status").addClass("cl-sett-status-" + CLJ[sObjId].sSS);
+							}
+							if(CLJ[sObjId].bModule.toString()=="1")
+							{
+								jTR.insertAfter(jTable.find("tr.sett-main-obj-header"));
+							}
+							else
+							{
+								jTR.appendTo(jTable);
+							}
+						}
+						break;
+					}
+					case "comment":
+					{
+						oCurObj.data.sIfNoComment = oCurObj.jxParams.children("comment_display").text();
+						break;
+					}
+				}
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="HandleCalc">
+<![CDATA[function HandleCalc(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				if(oCurObj.data.sRole!="calculator") return false;
+				if(argobj.elem==null) return false;
+				var sKey = $(argobj.elem).attr("data-btn");
+				if(sKey==null || sKey=="") return false;
+				var jContainer = $(oCurObj.div).find(".cl-container");
+				var jDisplay = jContainer.find(".calc-display");
+				var jMemInd = jContainer.find(".calc-memind");
+				var sCurString = $.trim(jDisplay.html() + "");
+				if($(argobj.elem).hasClass("calc-num")) // numeric btn or .
+				{
+					sKey = sKey + "";
+					if(oCurObj.data.bEqual==true)
+					{
+						oCurObj.data.sOperandA = "na";
+						oCurObj.data.sOperatorA = "na";
+						oCurObj.data.sOperandB = "na";
+						oCurObj.data.bEqual = false;
+					}
+					if(oCurObj.data.bClean==true)
+					{
+						sCurString = "0";
+						jDisplay.html("0");
+						oCurObj.data.sOperandB = "na";
+						oCurObj.data.bClean = false;
+					}
+					if(sCurString=="0" && sKey=="0") return false;
+					if(sKey=="." && sCurString.indexOf(".")!=-1) return false;
+					if(sCurString.length>=17)
+					{
+						if(sCurString.indexOf("!")==-1) jDisplay.html("!"+sCurString);
+						return false;
+					}
+					if(sCurString.length==1 && sCurString=="0" && sKey!=".")
+					{
+						jDisplay.html(sKey);
+						return true;
+					}
+					jDisplay.html(sCurString + sKey);
+				}
+				else
+				{
+					if(sCurString.indexOf("ERROR")!=-1 && sKey!="C") return false;
+					switch(sKey)
+					{
+						case "M+":
+						{
+							if(sCurString.indexOf("!")!=-1) sCurString = sCurString.substr(1);
+							jMemInd.html("M");
+							if(oCurObj.data.sMemory=="na")
+							{
+								oCurObj.data.sMemory = sCurString;
+							}
+							else
+							{
+								var nM1 = parseFloat(oCurObj.data.sMemory);
+								var nM2 = parseFloat(sCurString);
+								nM1 = nM1 + nM2;
+								oCurObj.data.sMemory = nM1.toString();
+							}
+							break;
+						}
+						case "MS":
+						{
+							if(sCurString.indexOf("!")!=-1) sCurString = sCurString.substr(1);
+							jMemInd.html("M");
+							if(oCurObj.data.sMemory=="na")
+							{
+								oCurObj.data.sMemory = "-" + sCurString;
+							}
+							else
+							{
+								var nM1 = parseFloat(oCurObj.data.sMemory);
+								var nM2 = parseFloat(sCurString);
+								nM1 = nM1 - nM2;
+								oCurObj.data.sMemory = nM1.toString();
+							}
+							break;
+						}
+						case "MR":
+						{
+							if(oCurObj.data.sMemory!="na")
+							{
+								jDisplay.html(oCurObj.data.sMemory);
+							}
+							break;
+						}
+						case "MC":
+						{
+							oCurObj.data.sMemory = "na";
+							jMemInd.html("&nbsp;");
+							break;
+						}
+						case "C":
+						{
+							oCurObj.data.sOperandA = "na";
+							oCurObj.data.sOperatorA = "na";
+							oCurObj.data.sOperandB = "na";
+							oCurObj.data.sLastBtn = "na";
+							oCurObj.data.bClean = false;
+							jDisplay.html("0");
+							break;
+						}
+						case "CE":
+						{
+							oCurObj.data.sOperandB = "na";
+							oCurObj.data.sLastBtn = "na";
+							oCurObj.data.bClean = false;
+							jDisplay.html("0");
+							break;
+						}
+						case "Backspace":
+						{
+							if(sCurString.length>1)
+							{
+								sCurString = sCurString.substr(0,sCurString.length-1);
+							}
+							jDisplay.html(sCurString);
+							break;
+						}
+						case "equal":
+						{
+							if(oCurObj.data.bPercent==true)
+							{
+								return false;
+							}
+							oCurObj.data.bEqual = true;
+							if(oCurObj.data.sOperandA!="na")
+							{
+								oCurObj.CallMethod({ sMethod: "Calculate", oMethodArgs: { sKey: sKey } });
+							}
+							break;
+						}
+						case "power":
+						case "plus":
+						case "minus":
+						case "mult":
+						case "divide":
+						{
+							if(oCurObj.data.bEqual==true)
+							{
+								oCurObj.data.bEqual = false;
+							}
+							if(oCurObj.data.bPercent==true)
+							{
+								oCurObj.data.bPercent = false;
+							}
+							if(sCurString.indexOf("!")!=-1)
+							{
+								sCurString = sCurString.substr(1);
+								jDisplay.html(sCurString);
+							}
+							if(oCurObj.data.sOperandA=="na" || oCurObj.data.bClean==true)
+							{
+								oCurObj.data.sOperandA = sCurString;
+								oCurObj.data.sOperatorA = sKey;
+								oCurObj.data.bClean = true;
+							}
+							else
+							{
+								oCurObj.CallMethod({ sMethod: "Calculate", oMethodArgs: { sKey: sKey } });
+							}
+							break;
+						}
+						case "negate":
+						{
+							if(sCurString=="0") return false;
+							if(oCurObj.data.bEqual==true)
+							{
+								oCurObj.data.bEqual = false;
+							}
+							if(oCurObj.data.bPercent==true)
+							{
+								oCurObj.data.bPercent = false;
+							}
+							if(sCurString.indexOf("-")!=-1)
+							{
+								sCurString = sCurString.substr(1);
+							}
+							else
+							{
+								sCurString = "-"+sCurString;
+							}
+							jDisplay.html(sCurString);
+							break;
+						}
+						case "recip":
+						{
+							if(sCurString=="0")
+							{
+								oCurObj.data.sOperandA = "na";
+								oCurObj.data.sOperatorA = "na";
+								oCurObj.data.sOperandB = "na";
+								oCurObj.data.sLastBtn = "na";
+								oCurObj.data.bClean = false;
+								jDisplay.html("ERROR: DIV 0");
+								return false;
+							}
+							if(oCurObj.data.bEqual==true)
+							{
+								oCurObj.data.bEqual = false;
+							}
+							if(oCurObj.data.bPercent==true)
+							{
+								oCurObj.data.bPercent = false;
+							}
+							if(sCurString.indexOf("!")!=-1) sCurString = sCurString.substr(1);
+							var nValue = 1/parseFloat(sCurString);
+							sCurString = nValue.toString();
+							if(sCurString.length>=20)
+							{
+								sCurString = sCurString.substring(0,19);
+							}
+							jDisplay.html(sCurString);
+							break;
+						}
+						case "percent":
+						{
+							if(oCurObj.data.sOperandA=="na") return false;
+							if(oCurObj.data.bPercent==true) return false;
+							oCurObj.data.bPercent = true;
+							if(oCurObj.data.bEqual==true)
+							{
+								oCurObj.data.bEqual = false;
+							}
+							oCurObj.CallMethod({ sMethod: "Calculate", oMethodArgs: { sKey: sKey } });
+							oCurObj.data.sOperandB = "na";
+							break;
+						}
+					}
+
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="Calculate">
+<![CDATA[function Calculate(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				if(oCurObj.data.sRole!="calculator") return false;
+				var jContainer = $(oCurObj.div).find(".cl-container");
+				var jDisplay = jContainer.find(".calc-display");
+				var jMemInd = jContainer.find(".calc-memind");
+				var sCurString = $.trim(jDisplay.html() + "");
+				if(sCurString.indexOf("!")!=-1) sCurString = sCurString.substr(1);
+				var nValue1 = parseFloat(oCurObj.data.sOperandA);
+				if(oCurObj.data.sOperandB=="na")
+				{
+					oCurObj.data.sOperandB = sCurString
+				}
+				var nValue2 = parseFloat(oCurObj.data.sOperandB);
+				var nResult = 0;
+				switch(oCurObj.data.sOperatorA)
+				{
+					case "plus":
+					{
+						nResult = (nValue1*1000 + nValue2*1000)/1000;
+						break;
+					}
+					case "minus":
+					{
+						nResult = (nValue1*1000 - nValue2*1000)/1000;
+						break;
+					}
+					case "mult":
+					{
+						nResult = nValue1 * nValue2;
+						if(oCurObj.data.bPercent==true)
+						{
+							nResult = nResult/100;
+						}
+						break;
+					}
+					case "divide":
+					{
+						if(nValue2==0)
+						{
+							oCurObj.data.sOperandA = "na";
+							oCurObj.data.sOperatorA = "na";
+							oCurObj.data.sOperandB = "na";
+							oCurObj.data.sLastBtn = "na";
+							oCurObj.data.bClean = true;
+							jDisplay.html("ERROR: DIV 0");
+							return false;
+						}
+						nResult = nValue1 / nValue2;
+						if(oCurObj.data.bPercent==true)
+						{
+							nResult = nResult*100;
+						}
+						break;
+					}
+					case "power":
+					{
+						nResult = Math.pow(nValue1,nValue2);
+						break;
+					}
+				}
+
+				if(nResult>-1 && nResult<1)
+				{
+					nResult = nResult.toString();
+					if(nResult.length>=20)
+					{
+						if(nResult.indexOf("e")!=-1)
+						{
+							var aParts = vResult.split("e");
+							if(parseInt(aParts[1])<-20)
+							{
+								nResult = "0";
+							}
+							else
+							{
+								if(aParts[0].length>14)
+								{
+									aParts[0] = aParts[0].substr(0,13);
+									if(parseFloat(aParts[0])==0)
+									{
+										nResult = "0";
+									}
+									else
+									{
+										nResult = aParts.join("e");
+									}
+								}
+								else
+								{
+									nResult = aParts.join("e");
+								}
+							}
+						}
+						else
+						{
+							nResult = nResult.substr(0,19);
+						}
+					}
+				}
+				else
+				{
+					nResult = nResult.toString();
+					if(nResult.length>=18)
+					{
+						if(nResult.indexOf(".")==-1)
+						{
+							oCurObj.data.sOperandA = "na";
+							oCurObj.data.sOperatorA = "na";
+							oCurObj.data.sOperandB = "na";
+							oCurObj.data.sLastBtn = "na";
+							oCurObj.data.bClean = true;
+							jDisplay.html("ERROR: OVERFLOW");
+							return false;
+						}
+						else
+						{
+							if(nResult.indexOf("e")!=-1)
+							{
+								var aParts = nResult.split("e");
+								if(aParts[0].length>14)
+								{
+									aParts[0] = aParts[0].substr(0,13);
+									nResult = aParts.join("e")
+								}
+							}
+							else
+							{
+								nResult = nResult.substr(0,17);
+							}
+						}
+					}
+				}
+				jDisplay.html(nResult);
+				oCurObj.data.sOperandA = nResult;
+				if(oCurObj.data.bEqual==false && oCurObj.data.bPercent==false)
+				{
+					oCurObj.data.sOperatorA = argobj.sKey;
+				}
+				oCurObj.data.bClean = true;
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="Filter">
+<![CDATA[function Filter(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				if(oCurObj.data.sRole!="glossary") return false;
+				if(argobj.elem==null) return false;
+				if($(argobj.elem).hasClass("cl-letter-selected")) return false;
+				var jContainer = $(oCurObj.div).find(".cl-container");
+				var jTerms = jContainer.find(".cl-term-item");
+				var sLetter = $.trim($(argobj.elem).text());
+				if(sLetter=="*")
+				{
+					jTerms.show();
+				}
+				else
+				{
+					jTerms.hide().each(function ()
+					{
+						var sText = $.trim($(this).html());
+						if(sText.toUpperCase().charAt(0)==sLetter)
+						{
+							$(this).show();
+						}
+					});
+				}
+				jTerms.filter(":visible").filter(":first").click();
+				jContainer.find(".cl-letter-item").addClass("cl-letter-idle").removeClass("cl-letter-selected");
+				$(argobj.elem).removeClass("cl-letter-idle").addClass("cl-letter-selected");
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="Display">
+<![CDATA[function Display(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				if(oCurObj.data.sRole!="glossary") return false;
+				var jContainer = $(oCurObj.div).find(".cl-container");
+				var jTerms = jContainer.find(".cl-term-item");
+				if(argobj.ecode!=null || argobj.eitem!=null)
+				{
+					var sCode = $.trim(argobj.ecode);
+					var sText = $.trim(argobj.eitem);
+					if(sCode=="" && sText=="") return false;
+					var jItem;
+					if(sCode!="")
+					{
+						jItem = jTerms.filter("[data-code='" + sCode + "']");
+						if(jItem.length!=0)
+						{
+							if(CLO[argobj.pid].data.sPosition=="closed" && CLO[argobj.pid].data.sState=="enabled")
+							{
+								CLO[argobj.pid].CallMethod({ sMethod: "Toggle" });
+							}
+							if(!jItem.hasClass("cl-term-selected"))
+							{
+								jItem.click();
+							}
+						}
+					}
+					else if(sText!="")
+					{
+						var sItemText;
+						for(var i=0; i<jTerms.length; i++)
+						{
+							sItemText = $.trim($(jTerms[i]).text());
+							if(sText==sItemText)
+							{
+								jItem = $(jTerms[i]);
+								break;
+							}
+						}
+						if(jItem.length!=0)
+						{
+							if(CLO[argobj.pid].data.sPosition=="closed" && CLO[argobj.pid].data.sState=="enabled")
+							{
+								CLO[argobj.pid].CallMethod({ sMethod: "Toggle" });
+							}
+							if(!jItem.hasClass("cl-term-selected"))
+							{
+								jItem.click();
+							}
+						}
+					}
+				}
+				else
+				{
+					if(argobj.elem==null) return false;
+					if($(argobj.elem).hasClass("cl-letter-selected")) return false;
+					var sTermId = $(argobj.elem).attr("data-number");
+					jTerms.removeClass("cl-term-selected").addClass("cl-term-idle");
+					jContainer.find(".cl-term-desc-item").hide();
+					jContainer.find(".cl-term-desc-item[data-number='" + sTermId + "']").show("fade");
+					jContainer.find(".cl-term-item[data-number='" + sTermId + "']").removeClass("cl-term-idle").addClass("cl-term-selected");
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="Update">
+<![CDATA[function Update(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				var jContainer = $(oCurObj.div).find(".cl-container");
+				switch(oCurObj.data.sRole)
+				{
+					case "contents":
+					{
+						var jLIs = jContainer.find("ul.slide-list > li.slide-item");
+						var sSlideId;
+						var jLI;
+						var bPrevVisited = true;
+						for(var i=0; i<jLIs.length; i++)
+						{
+							jLI = $(jLIs[i]);
+							sSlideId = jLI.attr("data-slide-id");
+							if(sSlideId==CLZ.sCurrentSlideId)
+							{
+								jLI.removeClass("allowed forbidden visited unvisited").addClass("current");
+								bPrevVisited = true;
+							}
+							else if(CL.SCO.IsVisited({ sBy: "slideid", sSlideId: sSlideId }))
+							{
+								jLI.removeClass("current unvisited forbidden").addClass("allowed visited");
+								bPrevVisited = true;
+							}
+							else
+							{
+								if(bPrevVisited)
+								{
+									if(CL.oPath._TargetAllowed({ sSlideId: sSlideId }))
+									{
+										jLI.removeClass("current unvisited forbidden").addClass("allowed unvisited");
+									}
+									else
+									{
+										jLI.removeClass("allowed current").addClass("forbidden unvisited");
+									}
+									bPrevVisited = false;
+								}
+								else
+								{
+									if(!CLZ.bStrictOrder)
+									{
+										if(CL.oPath._TargetAllowed({ sSlideId: sSlideId }))
+								{
+											jLI.removeClass("current unvisited forbidden").addClass("allowed unvisited");
+								}
+								else
+								{
+											jLI.removeClass("allowed current").addClass("forbidden unvisited");
+										}
+									}
+									else
+									{
+										jLI.removeClass("allowed current").addClass("forbidden unvisited");
+									}
+								}
+							}
+						}
+						break;
+					}
+					case "settings":
+					{
+						var jTR;
+						for(var sObjId in CLJ)
+						{
+							if(oCurObj.data.sObjToDisplay=="main" && CLJ[sObjId].bModule.toString()!="1") continue;
+							if(oCurObj.data.sObjToDisplay=="other" && CLJ[sObjId].bModule.toString()=="1") continue;
+							jTR = jContainer.find("tr[data-obj-id='" + sObjId + "']");
+							if(oCurObj.data.sScoreDisplayType=="raw")
+							{
+								jTR.children("td.cl-sett-score").html(CLJ[sObjId].nRawScore);
+							}
+							else if(oCurObj.data.sScoreDisplayType=="rawmax")
+							{
+								jTR.children("td.cl-sett-score").html(CLJ[sObjId].nRawScore + "(" + CLJ[sObjId].nMax + ")");
+							}
+							else if(oCurObj.data.sScoreDisplayType=="scaled")
+							{
+								if(CLJ[sObjId].nMax!=0)
+								{
+									jTR.children("td.cl-sett-score").html( Math.round(100*CLJ[sObjId].nRawScore/CLJ[sObjId].nMax)/100 + "%");
+								}
+								else
+								{
+									jTR.children("td.cl-sett-score").html(CLJ[sObjId].nRawScore);
+								}
+							}
+							if(oCurObj.data.bCustomIcons)
+							{
+								jTD = jTR.children("td.sett-cs");
+								jTD.attr({ "title": jTD.attr("data-title-cs-" + CLJ[sObjId].sCS) });
+								jTD.find("img").hide();
+								jTD.find("img.sett-cs-" + CLJ[sObjId].sCS).show();
+								jTD = jTR.children("td.sett-ss");
+								jTD.attr({ "title": jTD.attr("data-title-ss-" + CLJ[sObjId].sSS) });
+								jTD.find("img").hide();
+								jTD.find("img.sett-ss-" + CLJ[sObjId].sSS).show();
+							}
+							else
+							{
+								jTD = jTR.children("td.sett-cs");
+								jTD.attr({ "title": jTD.attr("data-title-cs-" + CLJ[sObjId].sCS) });
+								jTD.find("div.cl-sett-status").removeClass("cl-sett-status-n cl-sett-status-i cl-sett-status-c").addClass("cl-sett-status-" + CLJ[sObjId].sCS);
+								jTD = jTR.children("td.sett-ss");
+								jTD.attr({ "title": jTD.attr("data-title-ss-" + CLJ[sObjId].sSS) });
+								jTD.find("div.cl-sett-status").removeClass("cl-sett-status-u cl-sett-status-p cl-sett-status-f").addClass("cl-sett-status-" + CLJ[sObjId].sSS);
+							}
+						}
+						break;
+					}
+					case "comment":
+					{
+						var jxComments = CLS[CLZ.sCurrentSlideId].jxNode.children("comments");
+						if(jxComments.length!=0)
+						{
+							if(jxComments.text()!="")
+							{
+								var sText = $("<div/>").html(jxComments.text()).text();
+								if(oCurObj.data.sIfNoComment=="disable")
+								{
+									oCurObj.data.bNaviLockedByAction = false;
+									oCurObj.CallMethod({ sMethod: "Enable" });
+								}
+								else if(oCurObj.data.sIfNoComment=="hide")
+								{
+									oCurObj.Show();
+								}
+								jContainer.find(".cl-comm-none").hide();
+								jContainer.find(".cl-comm-body").html(sText).show();
+							}
+							else
+							{
+								if(oCurObj.data.sIfNoComment=="text")
+								{
+									jContainer.find(".cl-comm-none").show();
+									jContainer.find(".cl-comm-body").hide();
+								}
+								else if(oCurObj.data.sIfNoComment=="disable")
+								{
+									oCurObj.data.bNaviLockedByAction = true;
+									oCurObj.CallMethod({ sMethod: "Disable" });
+								}
+								else
+								{
+									oCurObj.Hide();
+								}
+							}
+						}
+						else
+						{
+							if(oCurObj.data.sIfNoComment=="text")
+							{
+								jContainer.find(".cl-comm-none").show();
+								jContainer.find(".cl-comm-body").hide();
+							}
+							else if(oCurObj.data.sIfNoComment=="disable")
+							{
+								oCurObj.data.bNaviLockedByAction = true;
+								oCurObj.CallMethod({ sMethod: "Disable" });
+							}
+							else
+							{
+								oCurObj.Hide();
+							}
+						}
+						break;
+					}
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="SearchTip">
+<![CDATA[function SearchTip(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				if(!oCurObj.data.bSearchTip)
+				{
+					return false;
+				}
+				var jContainer = $(oCurObj.div).find(".cl-container");
+				var jTips = jContainer.find(".cl-search-tips");
+				if(!jTips.is(":visible"))
+				{
+					jContainer.find(".cl-search-results-list, .cl-search-found, .cl-search-no-results").hide();
+					jTips.fadeIn("fast");
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="Search">
+<![CDATA[function Search(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				var jContainer = $(oCurObj.div).find(".cl-container");
+				var sStr = jContainer.find("input.cl-search-field").val();
+				sStr = $.trim(sStr);
+				if(sStr=="") return false;
+				var sCase = oCurObj.jxParams.children("search_case").text();
+				var bCase = false;
+				if(sCase=="no_user" || sCase=="yes_user")
+				{
+					bCase = (jContainer.find("select.cl-search-case").val()=="yes");
+				}
+				else
+				{
+					bCase = (sCase=="yes");
+				}
+				var sLogic = oCurObj.jxParams.children("search_logic").text();
+				if(sLogic=="OR_user" || sLogic=="AND_user")
+				{
+					sLogic = (jContainer.find("select.cl-search-logic").val()=="yes") ? "AND" : "OR";
+				}
+				var sScope = oCurObj.jxParams.children("search_scope").text();
+				var aResults = CL.Search({ sString: sStr, bCase: bCase, sLogic: sLogic, sScope: sScope });
+				if(oCurObj.data.bSearchTip)
+				{
+					jContainer.find(".cl-search-tips").hide();
+				}
+				if(aResults.length==0)
+				{
+					jContainer.find(".cl-search-results-list, .cl-search-found").hide();
+					jContainer.find(".cl-search-no-results").show();
+				}
+				else
+				{
+					var jUL = jContainer.find(".cl-search-results-list");
+					jUL.html("").show();
+					jContainer.find(".cl-search-found").show();
+					jContainer.find(".cl-search-found").find(".cl-search-found-qty").html(aResults.length);
+					jContainer.find(".cl-search-no-results").hide();
+					var jLI;
+					var jTemplate = jContainer.find("li.cl-search-item-template");
+					var sReturnFormat = oCurObj.jxParams.children("search_return_format").text();
+					var sSlideId;
+					for(var i=0; i<aResults.length; i++)
+					{
+						sSlideId = $(aResults[i].slide).attr("id");
+						jLI = jTemplate.clone(true).removeClass("cl-search-item-template").addClass("cl-search-results-item").attr({ "data-slide-id": sSlideId }).appendTo(jUL);
+						jLI.find(".item-name").html($(aResults[i].slide).attr("name"));
+						if(CL.SCO.IsVisited({ sBy: "slideid", sSlideId: sSlideId }) || sSlideId==CLZ.sCurrentSlideId)
+						{
+							jLI.addClass("allowed visited").on("click", function () { CLO[argobj.pid].CallMethod({ sMethod: "Navigate", oMethodArgs: { elem: this } }) });
+						}
+						if(sReturnFormat=="extended")
+						{
+							var aStrings = aResults[i].strings;
+							var sString = "";
+							for(var j=0; j<aStrings.length; j++)
+							{
+								if(j==0)
+								{
+									sString += aStrings[j];
+								}
+								else
+								{
+									sString += "<br>" + aStrings[j];
+								}
+							}
+							jLI.find(".item-text").html(sString);
+						}
+						else
+						{
+							jLI.find(".item-text").hide();
+						}
+					}
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="Navigate">
+<![CDATA[function Navigate(argobj)
+			{
+				if(argobj.elem==null) return false;
+				if($(argobj.elem).hasClass("allowed"))
+				{
+				var oCurObj = CLO[argobj.pid];
+				var sTargetId = $(argobj.elem).attr("data-slide-id");
+				CL.Navigation.GoTo({ sTargetType: "slide", sTargetId: sTargetId });
+				CL.Sound.Stop({ sId: argobj.pid, sEvent: "click" });
+				if(oCurObj.data.sSoundClick!="none")
+				{
+					CL.Sound.Play({ sId: argobj.pid, sEvent: "click", sType: oCurObj.data.sSoundClick, sFile: oCurObj.data.sSoundClickFile })
+				}
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="Open">
+<![CDATA[function Open(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				if(oCurObj.data.sPosition=="closed" && oCurObj.data.sState=="enabled")
+				{
+					oCurObj.CallMethod({ sMethod: "Toggle" });
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="Close">
+<![CDATA[function Close(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				if(oCurObj.data.sPosition=="open" && oCurObj.data.sState=="enabled")
+				{
+					oCurObj.CallMethod({ sMethod: "Toggle" });
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="Disable">
+<![CDATA[function Disable(argobj)
+			{
+				if(CLO[argobj.pid].data.sPosition=="open")
+				{
+					CLO[argobj.pid].CallMethod({ sMethod: "Toggle" });
+				}
+				CLO[argobj.pid].data.sState=="disabled";
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="Enable">
+<![CDATA[function Enable(argobj)
+			{
+				CLO[argobj.pid].data.sState=="enabled";
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="GetProperty">
+<![CDATA[function GetProperty(argobj)
+			{
+				if(argobj.pid==null || argobj.property==null) return false;
+				switch(argobj.property.toLowerCase())
+				{
+					case "disabled":
+					{
+						return (CLO[argobj.pid].data.sState=="disabled") ? "1" : "0";
+					}
+					case "open":
+					{
+						return (CLO[argobj.pid].data.sPosition=="open") ? "1" : "0";
+					}
+				}
+				return "";
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="Toggle">
+<![CDATA[function Toggle(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurDiv = $(oCurObj.div);
+				if(oCurObj.data.sPosition=="closed")
+				{
+					if(oCurObj.data.bModal)
+					{
+						CL.Modal({ bOn: true, sSrcId: argobj.pid });
+					}
+					oCurObj.data.sPosition = "transition_open";
+					jCurDiv.css({ "z-index": 5001 });
+					if(oCurObj.data.bTranIn)
+					{
+						oCurObj.Show({ bActionCall: true, bUseTransition: true, iTransition: oCurObj.data.iTranIn, iDuration: oCurObj.data.iDurIn, fnCallback: function () { CLO[argobj.pid].data.sPosition = "open"; } });
+					}
+					else
+					{
+						oCurObj.Show({ bActionCall: true, bUseTransition: false });
+						oCurObj.data.sPosition = "open";
+					}
+					if(oCurObj.data.aTogglers.length>0)
+					{
+						for(var i=0; i<oCurObj.data.aTogglers.length; i++)
+						{
+							if(CLO[oCurObj.data.aTogglers[i]].oMethods["Off"]!=null)
+							{
+								CLO[oCurObj.data.aTogglers[i]].CallMethod({ sMethod: "Off" });
+							}
+						}
+					}
+				}
+				else
+				{
+					if(oCurObj.data.bModal)
+					{
+						CL.Modal({ bOn: false, sSrcId: argobj.pid });
+					}
+					oCurObj.data.sPosition = "transition_close";
+					if(oCurObj.data.bTranOut)
+					{
+						oCurObj.Hide({ bActionCall: true, bUseTransition: true, iTransition: oCurObj.data.iTranOut, iDuration: oCurObj.data.iDurOut, fnCallback: function () { CLO[argobj.pid].data.sPosition = "closed"; } });
+					}
+					else
+					{
+						oCurObj.Hide({ bActionCall: true, bUseTransition: false });
+						oCurObj.data.sPosition = "closed";
+					}
+					if(oCurObj.data.aTogglers.length>0)
+					{
+						for(var i=0; i<oCurObj.data.aTogglers.length; i++)
+						{
+							if(CLO[oCurObj.data.aTogglers[i]].oMethods["On"]!=null)
+							{
+								CLO[oCurObj.data.aTogglers[i]].CallMethod({ sMethod: "On" });
+							}
+						}
+					}
+				}
+				CL.Sound.Stop({ sId: argobj.pid, sEvent: "click" });
+				if(oCurObj.data.sSoundClick!="none")
+				{
+					CL.Sound.Play({ sId: argobj.pid, sEvent: "click", sType: oCurObj.data.sSoundClick, sFile: oCurObj.data.sSoundClickFile })
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_015_progress" name="Constructor">
+<![CDATA[function Constructor(argobj)
+                {
+					var oCurObj = CLO[argobj.pid];
+					var jCurObjDiv = $(oCurObj.div);
+					oCurObj.data =
+					{
+						aPath: [],
+						sDisplayType: oCurObj.jxParams.find("display_type").text(),
+						sSlideId: "",
+						sChapterId: "",
+						sScope: oCurObj.jxParams.children("display_scope").text(),
+						sState: "enabled",
+						bNaviStrict: (oCurObj.jxParams.find("allow_link").text()=="strict"),
+						bNaviLockedByAction: false,
+						bMouseOver: (oCurObj.jxParams.find("allow_mouseover").text()!="never"),
+						bLink: (oCurObj.jxParams.find("allow_link").text()!="never"),
+						sSoundClick: oCurObj.jxParams.children("sound_click").text(),
+						sSoundOver: oCurObj.jxParams.children("sound_over").text(),
+						jRail: jCurObjDiv.find("[cl-role='progress-rail']"),
+						jTemplateV: jCurObjDiv.find("#" + argobj.pid + "_TEMPLATE_V"),
+						jTemplateC: jCurObjDiv.find("#" + argobj.pid + "_TEMPLATE_C"),
+						jTemplateU: jCurObjDiv.find("#" + argobj.pid + "_TEMPLATE_U")
+					};
+					if(oCurObj.data.sSoundClick=="custom")
+					{
+						oCurObj.data.sSoundClickFile = oCurObj.jxParams.children("sound_click_file_custom").text();
+					}
+					if(oCurObj.data.sSoundOver=="custom")
+					{
+						oCurObj.data.sSoundOverFile = oCurObj.jxParams.children("sound_over_file_custom").text();
+					}
+					if(!CL.oPath.bAlternative || oCurObj.data.sScope!="chapter")
+					{
+						oCurObj.data.aPath = CL.oPath._GetSlideList();
+					if(oCurObj.data.sDisplayType=="icons")
+					{
+						var jElem;
+						for(var i=0; i<oCurObj.data.aPath.length; i++)
+						{
+								jElem = oCurObj.data.jTemplateU.clone(true).appendTo(oCurObj.data.jRail).show().removeClass("cl-progress-elem-template").css({ "display": "inline-block" }).attr({ "cl-id": oCurObj.data.aPath[i] });
+							if(oCurObj.data.bMouseOver && !CL.bTouch)
+							{
+									jElem.on("mouseover", function (e) { CLO[argobj.pid].CallMethod({ sMethod: "Over", oMethodArgs: { evt: e, elem: this } }) }).on("mouseout", function (e) { CLO[argobj.pid].CallMethod({ sMethod: "Out", oMethodArgs: { evt: e, elem: this } }) });
+							}
+							if(oCurObj.data.bLink)
+							{
+									jElem.addClass("cl-linked").on("click", function (e) { CLO[argobj.pid].CallMethod({ sMethod: "Navigate", oMethodArgs: { evt: e, elem: this } }) });
+							}
+						}
+					}
+					else
+					{
+						$(oCurObj.div).find(".cl-bar").width(0);
+					}
+					}
+					var jCounter = $(oCurObj.div).find(".cl-progress-counter");
+					if(jCounter.length!=0)
+					{
+						jCounter.html(jCounter.html().split("{N}").join('<span class="cl-slide-number" cl-role="slide-number">0</span>').split("{Z}").join('<span class="cl-slide-total" cl-role="slide-total">' + oCurObj.data.aPath.length + '</span>'));
+						oCurObj.data.jSlideNumber = jCounter.find("[cl-role='slide-number']");
+						oCurObj.data.jSlideTotal = jCounter.find("[cl-role='slide-total']");
+					}
+					if($(oCurObj.div).find(".cl-progress-slidename-name").length!=0)
+					{
+						oCurObj.data.jSlideName = $(oCurObj.div).find(".cl-progress-slidename-name");
+					}
+					CL.Event.Subscribe({ aList: [ { sId: argobj.pid, sEvtName: "EVENT_SLIDE_OPENED" }, { sId: argobj.pid, sEvtName: "EVENT_SLIDE_COMPLETE" }, { sId: argobj.pid, sEvtName: "EVENT_NAVIGATION" } ] });
+                    return true;
+                }]]>
+</method>
+<method type="nav_015_progress" name="HandleEvt">
+<![CDATA[function HandleEvt(argobj)
+                {
+					var oCurObj = CLO[argobj.pid];
+					if(oCurObj==null) return false;
+					if(oCurObj.div==null) return false;
+					switch(argobj.evt)
+					{
+						case "EVENT_SLIDE_OPENED":
+						{
+							if(oCurObj.data.sSlideId!=CLZ.sCurrentSlideId)
+							{
+								oCurObj.data.sSlideId = CLZ.sCurrentSlideId;
+								oCurObj.data.bNaviLockedByAction = false;
+								oCurObj.CallMethod({ sMethod: "Update" });
+							}
+							oCurObj.CallMethod({ sMethod: ((oCurObj.data.bNaviStrict || oCurObj.data.bNaviLockedByAction) ? "DisableAccess" : "EnableAccess") });
+							break;
+						}
+						case "EVENT_SLIDE_COMPLETE":
+						{
+							oCurObj.CallMethod({ sMethod: ((oCurObj.data.bNaviLockedByAction) ? "DisableAccess" : "EnableAccess") });
+							break;
+						}
+						case "EVENT_NAVIGATION":
+						{
+							if(argobj.sTargets!=null)
+							{
+								if(argobj.sTargets=="progress" || argobj.sTargets=="all")
+								{
+									switch(argobj.sAction)
+									{
+										case "off":
+										{
+											oCurObj.data.bNaviLockedByAction = true;
+											oCurObj.CallMethod({ sMethod: "DisableAccess" });
+											break;
+										}
+										case "on":
+										default:
+										{
+											oCurObj.data.bNaviLockedByAction = false;
+											oCurObj.CallMethod({ sMethod: "EnableAccess" });
+											break;
+										}
+									}
+								}
+							}
+							break;
+						}
+					}
+					return true;
+                }]]>
+</method>
+<method type="nav_015_progress" name="DisableAccess">
+<![CDATA[function DisableAccess(argobj)
+			{
+				$(CLO[argobj.pid].div).find(".cl-container").addClass("cl-disabled");
+				CLO[argobj.pid].data.sState = "disabled";
+				return true;
+			}]]>
+</method>
+<method type="nav_015_progress" name="EnableAccess">
+<![CDATA[function EnableAccess(argobj)
+			{
+				$(CLO[argobj.pid].div).find(".cl-container").removeClass("cl-disabled");
+				CLO[argobj.pid].data.sState = "enabled";
+				return true;
+			}]]>
+</method>
+<method type="nav_015_progress" name="Update">
+<![CDATA[function UpdateProgress(argobj)
+                {
+					var oCurObj = CLO[argobj.pid];
+					var jCurObjDiv = $(oCurObj.div);
+					var iCurrent = -1;
+					var iNumber = -1;
+					if(!CL.oPath.bAlternative || oCurObj.data.sScope!="chapter")
+					{
+						iNumber = CL.oPath._GetSlideNumber();
+					if(oCurObj.data.sDisplayType=="icons")
+					{
+						var jCell;
+						for(var i=0; i<oCurObj.data.aPath.length; i++)
+						{
+								jCell = $(oCurObj.div).find("[cl-id='" + oCurObj.data.aPath[i] + "']");
+							if(oCurObj.data.aPath[i]==CLZ.sCurrentSlideId)
+							{
+								if(jCell.hasClass("cl-progress-img"))
+								{
+										jCell.removeClass("cl-progress-v cl-progress-u").addClass("cl-progress-c").attr({ "src": oCurObj.data.jTemplateC.attr("src") });
+								}
+								else
+								{
+									jCell.removeClass("cl-progress-v cl-progress-v-var cl-progress-u cl-progress-u-var").addClass("cl-progress-c cl-progress-c-var");
+								}
+								if(CLO[argobj.pid].data.bLink)
+								{
+									jCell.removeClass("cl-linked").unbind("click");
+								}
+								iCurrent = i;
+							}
+							else if(CL.SCO.IsVisited({ sBy: "slideid", sSlideId: oCurObj.data.aPath[i] }))
+							{
+								if(jCell.hasClass("cl-progress-img"))
+								{
+										jCell.removeClass("cl-progress-c cl-progress-u").addClass("cl-progress-v").attr({ "src": oCurObj.data.jTemplateV.attr("src") });
+								}
+								else
+								{
+									jCell.removeClass("cl-progress-c cl-progress-c-var cl-progress-u cl-progress-u-var").addClass("cl-progress-v cl-progress-v-var");
+								}
+								if(CLO[argobj.pid].data.bLink && !jCell.hasClass("cl-linked"))
+								{
+									jCell.addClass("cl-linked").click(function (e) { CLO[argobj.pid].CallMethod({ sMethod: "Navigate", oMethodArgs: { evt: e, elem: this } }) });
+								}
+							}
+							else
+							{
+								if(jCell.hasClass("cl-progress-img"))
+								{
+										jCell.removeClass("cl-progress-c cl-progress-v").addClass("cl-progress-u").attr({ "src": oCurObj.data.jTemplateU.attr("src") });
+								}
+								else
+								{
+									jCell.removeClass("cl-progress-c cl-progress-c-var cl-progress-v cl-progress-v-var").addClass("cl-progress-u cl-progress-u-var");
+								}
+								if(CLO[argobj.pid].data.bLink)
+								{
+									if(((CLZ.bStrictOrder && i<=iCurrent+1) || !CLZ.bStrictOrder) && !jCell.hasClass("cl-linked"))
+									{
+										jCell.addClass("cl-linked").click(function (e) { CLO[argobj.pid].CallMethod({ sMethod: "Navigate", oMethodArgs: { evt: e, elem: this } }) });
+									}
+								}
+							}
+						}
+					}
+					else
+					{
+						$(oCurObj.div).find(".cl-bar").width(Math.round(iNumber/oCurObj.data.aPath.length*100) + "%");
+					}
+					}
+					else if(CL.oPath.bAlternative && oCurObj.data.sScope=="chapter")
+					{
+						var sCurrentChapterId = CL.oPath._GetChapterId();
+						if(sCurrentChapterId!=oCurObj.data.sChapterId)
+						{
+							oCurObj.data.aPath = CL.oPath._GetSlideList({ bChapter: true });
+							oCurObj.data.sChapterId = sCurrentChapterId;
+							if(oCurObj.data.sDisplayType=="icons")
+							{
+								var jElem;
+								oCurObj.data.jRail.children("[cl-id]").remove();
+								for(var i=0; i<oCurObj.data.aPath.length; i++)
+								{
+									jElem = oCurObj.data.jTemplateU.clone(true).appendTo(oCurObj.data.jRail).show().removeClass("cl-progress-elem-template").css({ "display": "inline-block" }).attr({ "cl-id": oCurObj.data.aPath[i] });
+									if(oCurObj.data.bMouseOver && !CL.bTouch)
+									{
+										jElem.on("mouseover", function (e) { CLO[argobj.pid].CallMethod({ sMethod: "Over", oMethodArgs: { evt: e, elem: this } }) }).on("mouseout", function (e) { CLO[argobj.pid].CallMethod({ sMethod: "Out", oMethodArgs: { evt: e, elem: this } }) });
+									}
+									if(oCurObj.data.bLink)
+									{
+										jElem.addClass("cl-linked").on("click", function (e) { CLO[argobj.pid].CallMethod({ sMethod: "Navigate", oMethodArgs: { evt: e, elem: this } }) });
+									}
+								}
+							}
+							else
+							{
+								jCurObjDiv.find(".cl-bar").width(Math.round(iNumber/oCurObj.data.aPath.length*100) + "%");
+							}
+							if(oCurObj.data.jSlideTotal!=null)
+							{
+								oCurObj.data.jSlideTotal.html(CL.oPath._GetLength({ bChapter: true }));
+							}
+						}
+						iNumber = CL.oPath._GetSlideNumber({ bChapter: true });
+						if(oCurObj.data.sDisplayType=="icons")
+						{
+							for(var i=0; i<oCurObj.data.aPath.length; i++)
+							{
+								jCell = $(oCurObj.div).find("[cl-id='" + oCurObj.data.aPath[i] + "']");
+								if(oCurObj.data.aPath[i]==CLZ.sCurrentSlideId)
+								{
+									if(jCell.hasClass("cl-progress-img"))
+									{
+										jCell.removeClass("cl-progress-v cl-progress-u").addClass("cl-progress-c").attr({ "src": oCurObj.data.jTemplateC.attr("src") });
+									}
+									else
+									{
+										jCell.removeClass("cl-progress-v cl-progress-v-var cl-progress-u cl-progress-u-var").addClass("cl-progress-c cl-progress-c-var");
+									}
+									if(CLO[argobj.pid].data.bLink)
+									{
+										jCell.removeClass("cl-linked").unbind("click");
+									}
+									iCurrent = i;
+								}
+								else if(CL.SCO.IsVisited({ sBy: "slideid", sSlideId: oCurObj.data.aPath[i] }))
+								{
+									if(jCell.hasClass("cl-progress-img"))
+									{
+										jCell.removeClass("cl-progress-c cl-progress-u").addClass("cl-progress-v").attr({ "src": oCurObj.data.jTemplateV.attr("src") });
+									}
+									else
+									{
+										jCell.removeClass("cl-progress-c cl-progress-c-var cl-progress-u cl-progress-u-var").addClass("cl-progress-v cl-progress-v-var");
+									}
+									if(CLO[argobj.pid].data.bLink && !jCell.hasClass("cl-linked"))
+									{
+										jCell.addClass("cl-linked").click(function (e) { CLO[argobj.pid].CallMethod({ sMethod: "Navigate", oMethodArgs: { evt: e, elem: this } }) });
+									}
+								}
+								else
+								{
+									if(jCell.hasClass("cl-progress-img"))
+									{
+										jCell.removeClass("cl-progress-c cl-progress-v").addClass("cl-progress-u").attr({ "src": oCurObj.data.jTemplateU.attr("src") });
+									}
+									else
+									{
+										jCell.removeClass("cl-progress-c cl-progress-c-var cl-progress-v cl-progress-v-var").addClass("cl-progress-u cl-progress-u-var");
+									}
+									if(CLO[argobj.pid].data.bLink)
+									{
+										if(((CLZ.bStrictOrder && i<=iCurrent+1) || !CLZ.bStrictOrder) && !jCell.hasClass("cl-linked"))
+										{
+											jCell.addClass("cl-linked").click(function (e) { CLO[argobj.pid].CallMethod({ sMethod: "Navigate", oMethodArgs: { evt: e, elem: this } }) });
+										}
+									}
+								}
+							}
+						}
+						else
+						{
+							jCurObjDiv.find(".cl-bar").width(Math.round(iNumber/oCurObj.data.aPath.length*100) + "%");
+						}
+					}
+					if(oCurObj.data.jSlideNumber!=null)
+					{
+						oCurObj.data.jSlideNumber.html(iNumber);
+					}
+					if(oCurObj.data.jSlideName!=null)
+					{
+						oCurObj.data.jSlideName.html(CLS[CLZ.sCurrentSlideId].sName);
+					}
+					return true;
+                }]]>
+</method>
+<method type="nav_015_progress" name="Navigate">
+<![CDATA[function Navigate(argobj)
+                {
+					if($(CLO[argobj.pid].div).find("div.cl-container").hasClass("cl-disabled")) return false;
+					var sTargetId = $(argobj.elem).attr("cl-id");
+					if(argobj.override==true || CL.Navigation.Allowed({ sTarget: "slide", sTargetId: sTargetId }))
+					{
+						CLO[argobj.pid].CallMethod({ sMethod: "DisableAccess" });
+						CL.Navigation.GoTo({ sTargetType: "slide", sTargetId: sTargetId });
+					}
+					CL.Sound.Stop({ sId: argobj.pid, sEvent: "click" });
+					if(oCurObj.data.sSoundClick!="none")
+					{
+						CL.Sound.Play({ sId: argobj.pid, sEvent: "click", sType: oCurObj.data.sSoundClick, sFile: oCurObj.data.sSoundClickFile })
+					}
+                    return true;
+                }]]>
+</method>
+<method type="nav_015_progress" name="Over">
+<![CDATA[function Over(argobj)
+				{
+					var sTargetId = $(argobj.elem).attr("cl-id");
+					var oCurObj = CLO[argobj.pid];
+					$(CLO[argobj.pid].div).find("div.cl-over").html($(CL.jxModule).find("slide[id='" + sTargetId + "']").attr("name"));
+					CL.Sound.Stop({ sId: argobj.pid, sEvent: "over" });
+					if(oCurObj.data.sSoundOver!="none")
+					{
+						CL.Sound.Play({ sId: argobj.pid, sEvent: "over", sType: oCurObj.data.sSoundOver, sFile: oCurObj.data.sSoundOverFile })
+					}
+					return true;
+				}]]>
+</method>
+<method type="nav_015_progress" name="Out">
+<![CDATA[function Out(argobj)
+				{
+					$(CLO[argobj.pid].div).find("div.cl-over").html("&nbsp;");
+					return true;
+				}]]>
+</method>
+<method type="nav_0000_btn_universal" name="Constructor">
+<![CDATA[function Constructor(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				if(oCurObj.jxParams.find("n1_img").text()=="" || oCurObj.jxParams.find("n2_img").text()=="" || oCurObj.jxParams.find("n3_img").text()=="")
+				{
+					return false;
+				}
+				oCurObj.data =
+				{
+					sState: "enabled",
+					bNaviBtn: (oCurObj.jxParams.find("navibutton").text()=="yes"),
+					bNaviStrict: (oCurObj.jxParams.find("nav_lock").text()=="yes"),
+					bUseMethod: (oCurObj.jxParams.find("use_object").text()=="yes"),
+					bNaviLockedByAction: false,
+					sTargetId: oCurObj.jxParams.find("target_object").text(),
+					sSoundClick: oCurObj.jxParams.children("sound_click").text(),
+					sSoundOver: oCurObj.jxParams.children("sound_over").text()
+				};
+				if(oCurObj.data.sSoundClick=="custom")
+				{
+					oCurObj.data.sSoundClickFile = oCurObj.jxParams.children("sound_click_file_custom").text();
+				}
+				if(oCurObj.data.sSoundOver=="custom")
+				{
+					oCurObj.data.sSoundOverFile = oCurObj.jxParams.children("sound_over_file_custom").text();
+				}
+				var jEventDiv = jCurObjDiv.children(".cl-wrapper");
+				if(jEventDiv.length!=0)
+				{
+					jEventDiv[0].removeAttribute("style");
+					jEventDiv[0].setAttribute("data-parent-id", argobj.pid);
+					var sBody;
+					var sNewFn;
+					sBody = jEventDiv[0].getAttribute("onclick");
+					if(sBody!=null && sBody!="")
+					{
+						jEventDiv[0].setAttribute("onclick", 'if(CLO[this.getAttribute("data-parent-id")].data.sState=="enabled") {' + sBody + '}');
+					}
+					sBody = jEventDiv[0].getAttribute("ondblclick");
+					if(sBody!=null && sBody!="")
+					{
+						jEventDiv[0].setAttribute("ondblclick", 'if(CLO[this.getAttribute("data-parent-id")].data.sState=="enabled") {' + sBody + '}');
+					}
+					sBody = jEventDiv[0].getAttribute("onmousedown");
+					if(sBody!=null && sBody!="")
+					{
+						jEventDiv[0].setAttribute("onmousedown", 'if(CLO[this.getAttribute("data-parent-id")].data.sState=="enabled") {' + sBody + '}');
+					}
+					sBody = jEventDiv[0].getAttribute("onmouseup");
+					if(sBody!=null && sBody!="")
+					{
+						jEventDiv[0].setAttribute("onmouseup", 'if(CLO[this.getAttribute("data-parent-id")].data.sState=="enabled") {' + sBody + '}');
+					}
+				}
+				if(CL.bTouch)
+				{
+					jCurObjDiv.find(".cl-btn").addClass("cl-idle").on("click", function () { oCurObj.CallMethod({ sMethod: "Click", oMethodArgs: { pid: argobj.pid } }) });
+				}
+				else
+				{
+					jCurObjDiv.find(".cl-btn").addClass("cl-idle").on("mouseover", function () { oCurObj.CallMethod({ sMethod: "SetState", oMethodArgs: { pid: argobj.pid, sState: "over" } }) }).on("mouseout", function () { oCurObj.CallMethod({ sMethod: "SetState", oMethodArgs: { pid: argobj.pid, sState: "out" } }) }).on("click", function () { oCurObj.CallMethod({ sMethod: "Click", oMethodArgs: { pid: argobj.pid } }) });
+				}
+				if(oCurObj.data.bNaviBtn)
+				{
+					CL.Event.Subscribe({ aList: [ { sId: argobj.pid, sEvtName: "EVENT_SLIDE_OPENED" }, { sId: argobj.pid, sEvtName: "EVENT_SLIDE_COMPLETE" }, { sId: argobj.pid, sEvtName: "EVENT_NAVIGATION" } ] });
+					if(CLO[oCurObj.data.sTargetId]!=null)
+					{
+						if(CLO[oCurObj.data.sTargetId].data!=null)
+						{
+							if(CLO[oCurObj.data.sTargetId].data.sRole!=null)
+							{
+								oCurObj.data.sRole = CLO[oCurObj.data.sTargetId].data.sRole;
+							}
+						}
+					}
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0000_btn_universal" name="HandleEvt">
+<![CDATA[function HandleEvt(oEvtHandler, oArg)
+			{
+				if(CLO[argobj.pid]==null || CLO[argobj.pid].div==null)
+				{
+					return false;
+				}
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				switch(argobj.evt)
+				{
+					case "EVENT_SLIDE_OPENED":
+					{
+						if(oCurObj.data.sSlideId!=CLZ.sCurrentSlideId)
+						{
+							oCurObj.data.sSlideId = CLZ.sCurrentSlideId;
+							oCurObj.data.bNaviLockedByAction = false;
+						}
+						oCurObj.CallMethod({ sMethod: ((oCurObj.data.bNaviStrict || oCurObj.data.bNaviLockedByAction) ? "DisableAccess" : "EnableAccess") });
+						break;
+					}
+					case "EVENT_SLIDE_COMPLETE":
+					{
+						oCurObj.CallMethod({ sMethod: ((oCurObj.data.bNaviLockedByAction) ? "DisableAccess" : "EnableAccess") });
+						break;
+					}
+					case "EVENT_NAVIGATION":
+					{
+						if(argobj.sTargets!=null)
+						{
+							if(argobj.sTargets=="all" || argobj.sTargets=="tabs" || (argobj.sTargets=="contents" && oCurObj.data.sRole=="contents"))
+							{
+								switch(argobj.sAction)
+								{
+									case "off":
+									{
+										if(!oCurObj.data.bNaviLockedByAction)
+										{
+											oCurObj.data.bNaviLockedByAction = true;
+											oCurObj.CallMethod({ sMethod: "DisableAccess" });
+										}
+										break;
+									}
+									case "on":
+									default:
+									{
+										oCurObj.data.bNaviLockedByAction = false;
+										oCurObj.CallMethod({ sMethod: "EnableAccess" });
+										break;
+									}
+								}
+							}
+						}
+						break;
+					}					
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0000_btn_universal" name="SetState">
+<![CDATA[function SetState(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				var jBtn = jCurObjDiv.find(".cl-btn");
+				if(jBtn.hasClass("cl-disabled") && argobj.sState!="enabled") return false;
+				switch(argobj.sState)
+				{
+					case "over":
+					{
+						jBtn.removeClass("cl-idle").addClass("cl-over");
+						CL.Sound.Stop({ sId: argobj.pid, sEvent: "over" });
+						if(oCurObj.data.sSoundOver!="none")
+						{
+							CL.Sound.Play({ sId: argobj.pid, sEvent: "over", sType: oCurObj.data.sSoundOver, sFile: oCurObj.data.sSoundOverFile })
+						}
+						break;
+					}
+					case "out":
+					{
+						jBtn.removeClass("cl-over").addClass("cl-idle");
+						break;
+					}
+					case "disabled":
+					{
+						jBtn.removeClass("cl-idle cl-over").addClass("cl-disabled");
+						CLO[argobj.pid].data.sState = "disabled";
+						if(argobj.bWindow==true)
+						{
+							oCurObj.data.bNaviLockedByAction = true;
+						}
+						break;
+					}
+					case "enabled":
+					{
+						jBtn.removeClass("cl-disabled").addClass("cl-idle");
+						CLO[argobj.pid].data.sState = "enabled";
+						if(argobj.bWindow==true)
+						{
+							oCurObj.data.bNaviLockedByAction = false;
+						}
+						break;
+					}
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0000_btn_universal" name="DisableAccess">
+<![CDATA[function DisableAccess(argobj)
+			{
+				CLO[argobj.pid].CallMethod({ sMethod: "SetState", oMethodArgs: { sState: "disabled" } });
+				return true;
+			}]]>
+</method>
+<method type="nav_0000_btn_universal" name="EnableAccess">
+<![CDATA[function EnableAccess(argobj)
+			{
+				CLO[argobj.pid].CallMethod({ sMethod: "SetState", oMethodArgs: { sState: "enabled" } });
+				return true;
+			}]]>
+</method>
+<method type="nav_0000_btn_universal" name="GetProperty">
+<![CDATA[function GetProperty(argobj)
+			{
+				switch(argobj.property.toLowerCase())
+				{
+					case "disabled":
+					{
+						return (CLO[argobj.pid].data.sState=="disabled" ? "1" : "0");
+					}
+				}
+				return "";
+			}]]>
+</method>
+<method type="nav_0000_btn_universal" name="Click">
+<![CDATA[function Click(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				if(oCurObj.data.sState=="disabled") return false;
+				if(oCurObj.data.bUseMethod)
+				{
+					var sObjectId = oCurObj.jxParams.find("target_object").text();
+					if(sObjectId==null || sObjectId=="") return false;
+					if(CLO[sObjectId]==null)
+					{
+						CLO[sObjectId] = new CLObject({ xNode: CL.axSlides.find("object[id='" + sObjectId + "']") });
+					}
+					if(CLO[sObjectId].oMethods["Open"]!=null && CLO[sObjectId].oMethods["Close"]!=null)
+					{
+						if(CLO[sObjectId].bOpen==true)
+						{
+							CLO[sObjectId].CallMethod({ sMethod: "Close" });
+						}
+						else
+						{
+							CLO[sObjectId].CallMethod({ sMethod: "Open" });
+						}
+					}
+				}
+				CL.Sound.Stop({ sId: argobj.pid, sEvent: "click" });
+				if(oCurObj.data.sSoundClick!="none")
+				{
+					CL.Sound.Play({ sId: argobj.pid, sEvent: "click", sType: oCurObj.data.sSoundClick, sFile: oCurObj.data.sSoundClickFile })
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0001_position" name="Constructor">
+<![CDATA[function Constructor(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				oCurObj.data =
+				{
+					iSlideNum: 0,
+					jChapterNumber: [],
+					jChapterTotal: [],
+					jNumber: [],
+					jTotal: [],
+					sDisplayType: oCurObj.jxParams.children("display_type").text(),
+					sSlideId: ""
+				};
+				switch(oCurObj.data.sDisplayType)
+				{
+					case "plain":
+					{
+						oCurObj.data.jNumber = jCurObjDiv.find("[cl-role='slide-number']");
+						oCurObj.data.jTotal = jCurObjDiv.find("[cl-role='slide-total']");
+						oCurObj.data.jTotal.html(CL.oPath._GetLength());
+						break;
+					}
+					case "sub_module":
+					{
+						var jText = jCurObjDiv.find("[cl-role='position-text']");
+						jText.html( jText.html().split("{{N}}").join('<span class="cl-value" cl-role="slide-number"></span>').split("{{M}}").join('<span class="cl-total" cl-role="slide-total"></span>') );
+						oCurObj.data.jNumber = jText.find("[cl-role='slide-number']");
+						oCurObj.data.jTotal = jText.find("[cl-role='slide-total']");
+						break;
+					}
+					case "sub_chapter":
+					{
+						var jText = jCurObjDiv.find("[cl-role='position-text']");
+						jText.html( jText.html().split("{{X}}").join('<span class="cl-value" cl-role="slide-chapter-number"></span>').split("{{Y}}").join('<span class="cl-total" cl-role="slide-chapter-total"></span>') );
+						oCurObj.data.jChapterNumber = jText.find("[cl-role='slide-chapter-number']");
+						oCurObj.data.jChapterTotal = jText.find("[cl-role='slide-chapter-total']");
+						break;
+					}
+					case "sub_all":
+					{
+						var jText = jCurObjDiv.find("[cl-role='position-text']");
+						jText.html( jText.html().split("{{N}}").join('<span class="cl-value" cl-role="slide-number"></span>').split("{{M}}").join('<span class="cl-total" cl-role="slide-total"></span>').split("{{X}}").join('<span class="cl-value" cl-role="slide-chapter-number"></span>').split("{{Y}}").join('<span class="cl-total" cl-role="slide-chapter-total"></span>') );
+						oCurObj.data.jChapterNumber = jText.find("[cl-role='slide-chapter-number']");
+						oCurObj.data.jChapterTotal = jText.find("[cl-role='slide-chapter-total']");
+						oCurObj.data.jNumber = jText.find("[cl-role='slide-number']");
+						oCurObj.data.jTotal = jText.find("[cl-role='slide-total']");
+						break;
+					}
+				}
+				if(oCurObj.data.jTotal.length!=0)
+				{
+					oCurObj.data.jTotal.html(CL.oPath._GetLength());
+				}
+				CL.Event.Subscribe({ aList: [ { sId: argobj.pid, sEvtName: "EVENT_SLIDE_OPENED" } ] });
+				return true;
+			}]]>
+</method>
+<method type="nav_0001_position" name="HandleEvt">
+<![CDATA[function HandleEvt(oEvtHandler)
+			{
+				var oCurObj = CLO[argobj.pid];
+				if(oCurObj==null) return false;
+				if(oCurObj.div==null) return false;
+				switch(argobj.evt)
+				{
+					case "EVENT_SLIDE_OPENED":
+					{
+						if(oCurObj.data.sSlideId!=CLZ.sCurrentSlideId)
+						{
+							CLO[argobj.pid].CallMethod({ sMethod: "Update" });
+						}
+						break;
+					}
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0001_position" name="Update">
+<![CDATA[function Update(argobj)
+			{
+				if(argobj.pid==null) return false;
+				var oCurObj = CLO[argobj.pid];
+				if(oCurObj==null) return false;
+				if(oCurObj.data.jNumber.length!=0)
+				{
+					oCurObj.data.jNumber.html(CL.oPath._GetSlideNumber());
+				}
+				if(oCurObj.data.jChapterNumber.length!=0)
+				{
+					oCurObj.data.jChapterNumber.html(CL.oPath._GetSlideNumber({ bChapter: true }));
+				}
+				if(oCurObj.data.jChapterTotal.length!=0)
+				{
+					oCurObj.data.jChapterTotal.html(CL.oPath._GetLength({ bChapter: true }));
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0001_position" name="GetProperty">
+<![CDATA[function GetProperty(argobj)
+			{
+				if(argobj.pid==null || argobj.property==null) return false;
+				if(CLO[argobj.pid]==null) return false;
+				switch(argobj.property.toLowerCase())
+				{
+					case "currentposition":
+					{
+						return CLO[argobj.pid].data.iSlideNum;
+					}
+				}
+				return true;
+			}]]>
+</method>
+</methods>
+<params>
+<param objectid="OBJ_8">
+<hidden_slide_visited>Посещенный слайд</hidden_slide_visited>
+<hidden_slide_current>Текущий слайд</hidden_slide_current>
+<hidden_slide_unvisited>Непосещенный слайд</hidden_slide_unvisited>
+<hidden_slide_closed>Слайд - узел иерархии закрытый</hidden_slide_closed>
+<hidden_slide_open>Слайд - узел иерархии открытый</hidden_slide_open>
+<hidden_obj_title>Название цели</hidden_obj_title>
+<contenttype>contents</contenttype>
+<fs_richtext></fs_richtext>
+<display_header_richtext>yes</display_header_richtext>
+<header_richtext><![CDATA[<span style="font-family: open_sansregular, Arial, sans-serif;font-size: 18px; color: #000000;">Помощь</span>]]></header_richtext>
+<panel_text_richtext><![CDATA[<span style="font-family: open_sansregular, Arial, sans-serif;font-size: 18px; color: #000000;"></span>]]></panel_text_richtext>
+<fs_contents></fs_contents>
+<display_header_contents>no</display_header_contents>
+<header_contents><![CDATA[<span style="font-family: open_sansregular, Arial, sans-serif;font-size: 18px; color: #000000;">Содержание</span>]]></header_contents>
+<fs_search></fs_search>
+<display_header_search>yes</display_header_search>
+<header_search><![CDATA[<span style="font-family: open_sansregular, Arial, sans-serif;font-size: 18px; color: #000000;">Поиск</span>]]></header_search>
+<search_tip>yes</search_tip>
+<search_tip_text><![CDATA[<span style="font-family: open_sansregular, Arial, sans-serif;font-size: 18px; color: #000000;">Вы можете использовать при поиске символы *, заменяющие любые неизвестные буквы в слове. Для поиска фразы в режиме точного соответствия заключите фразу в кавычки (однако символы * в этом случае использовать нельзя). Помните, что поиск осуществляется по всем текстам модуля - некоторые из них могут быть невидимы до выполнения условий, заложенных автором курса.</span>]]></search_tip_text>
+<search_case>no_user</search_case>
+<search_logic>OR_user</search_logic>
+<search_scope>slide</search_scope>
+<search_return_format>simple</search_return_format>
+<fs_glossary></fs_glossary>
+<display_header_glossary>yes</display_header_glossary>
+<header_glossary><![CDATA[<span style="font-family: open_sansregular, Arial, sans-serif;font-size: 18px; color: #000000;">Словарь</span>]]></header_glossary>
+<glossary_item_list></glossary_item_list>
+<fs_documents></fs_documents>
+<display_header_documents>yes</display_header_documents>
+<header_documents><![CDATA[<span style="font-family: open_sansregular, Arial, sans-serif;font-size: 18px; color: #000000;">Документы</span>]]></header_documents>
+<doc_list></doc_list>
+<fs_settings></fs_settings>
+<display_header_settings>yes</display_header_settings>
+<header_settings><![CDATA[<span style="font-family: open_sansregular, Arial, sans-serif;font-size: 18px; color: #000000;">Параметры</span>]]></header_settings>
+<settings_tip>yes</settings_tip>
+<settings_tip_text><![CDATA[<span style="font-family: open_sansregular, Arial, sans-serif;font-size: 18px; color: #000000;"></span>]]></settings_tip_text>
+<settings_display>main</settings_display>
+<mainobj_text><![CDATA[<span style="font-family: open_sansregular, Arial, sans-serif;font-size: 18px; color: #000000;">Главная цель модуля</span>]]></mainobj_text>
+<allobj_text><![CDATA[<span style="font-family: open_sansregular, Arial, sans-serif;font-size: 18px; color: #000000;">Цели модуля</span>]]></allobj_text>
+<score_style>scaled</score_style>
+<fs_calculator></fs_calculator>
+<display_header_calculator>yes</display_header_calculator>
+<header_calculator><![CDATA[<span style="font-family: open_sansregular, Arial, sans-serif;font-size: 18px; color: #000000;">Калькулятор</span>]]></header_calculator>
+<display_calculator_desc>no</display_calculator_desc>
+<calculator_desc><![CDATA[<span style="font-family: open_sansregular, Arial, sans-serif;font-size: 18px; color: #000000;"></span>]]></calculator_desc>
+<fs_comment></fs_comment>
+<display_header_comment>yes</display_header_comment>
+<header_comment><![CDATA[<span style="font-family: open_sansregular, Arial, sans-serif;font-size: 18px; color: #000000;">Комментарий</span>]]></header_comment>
+<comment_display>text</comment_display>
+<no_comments><![CDATA[<span style="font-family: open_sansregular, Arial, sans-serif;font-size: 18px; color: #000000;">Нет комментариев</span>]]></no_comments>
+<tranin>-1</tranin>
+<durin>800</durin>
+<tranout>-1</tranout>
+<durout>800</durout>
+<nav_lock>yes</nav_lock>
+<modal>no</modal>
+<hide_close>yes</hide_close>
+<fs_contents_2></fs_contents_2>
+<slide_icons>standard</slide_icons>
+<fs_slide_icons></fs_slide_icons>
+<i1_img></i1_img>
+<i2_img></i2_img>
+<i3_img></i3_img>
+<hier_type>none</hier_type>
+<fs_contents_hier_icons></fs_contents_hier_icons>
+<h1_img></h1_img>
+<h2_img></h2_img>
+<fs_glossary_2></fs_glossary_2>
+<display_letters>yes</display_letters>
+<glossary_default_text><![CDATA[<span style="font-family: open_sansregular, Arial, sans-serif;font-size: 18px; color: #000000;">Выберите элемент, чтобы увидеть описание</span>]]></glossary_default_text>
+<glossary_not_found><![CDATA[<span style="font-family: open_sansregular, Arial, sans-serif;font-size: 18px; color: #000000;">Запрошенный элемент не найден</span>]]></glossary_not_found>
+<glossary_items_col_width>30</glossary_items_col_width>
+<fs_settings_2></fs_settings_2>
+<settings_icons>standard</settings_icons>
+<fs_icons_statuses></fs_icons_statuses>
+<on_img></on_img>
+<oi_img></oi_img>
+<oc_img></oc_img>
+<ou_img></ou_img>
+<op_img></op_img>
+<of_img></of_img>
+<panel_padding>15</panel_padding>
+<panel_bordercolor>#0080C0</panel_bordercolor>
+<panel_borderwidth>1</panel_borderwidth>
+<panel_radius>5</panel_radius>
+<shadow_strength>normal</shadow_strength>
+<panel_bgtype>solid</panel_bgtype>
+<panel_bgcolor>#FFFFFF</panel_bgcolor>
+<fs_panel_gradient></fs_panel_gradient>
+<panel_gradientcolor>#DDEEFF</panel_gradientcolor>
+<fs_panel_bg_img></fs_panel_bg_img>
+<panel_bgimg></panel_bgimg>
+<panel_bgimg_repeat>repeat</panel_bgimg_repeat>
+<panel_bgimg_position>cm</panel_bgimg_position>
+<panel_bgimg_position_custom></panel_bgimg_position_custom>
+<contenttype_style>richtext</contenttype_style>
+<fs_style_none></fs_style_none>
+<fs_basic_font></fs_basic_font>
+<basic_font>clear_sansregular</basic_font>
+<basic_font_custom></basic_font_custom>
+<basic_font_style>normal</basic_font_style>
+<basic_font_size>16</basic_font_size>
+<fs_style_contents></fs_style_contents>
+<allowed_fill_color>#FFFFFF</allowed_fill_color>
+<allowed_font_color>#004080</allowed_font_color>
+<current_fill_color>#EEEEEE</current_fill_color>
+<current_font_color>#000000</current_font_color>
+<forbidden_fill_color>#FFFFFF</forbidden_fill_color>
+<forbidden_font_color>#999999</forbidden_font_color>
+<item_padding>5</item_padding>
+<fs_style_glossary></fs_style_glossary>
+<gloss_border_style>none</gloss_border_style>
+<gloss_border_width>1</gloss_border_width>
+<gloss_border_radius>5</gloss_border_radius>
+<gloss_padding>10</gloss_padding>
+<gloss_fill_type>grad_h</gloss_fill_type>
+<gloss_font_color_idle>#FFFFFF</gloss_font_color_idle>
+<gloss_font_color_selected>#0080C0</gloss_font_color_selected>
+<gloss_border_color_idle>#0080C0</gloss_border_color_idle>
+<gloss_border_color_selected>#0080C0</gloss_border_color_selected>
+<gloss_bg_color_idle>#0080C0</gloss_bg_color_idle>
+<gloss_bg_color_selected>#CEEFFF</gloss_bg_color_selected>
+<fs_gloss_gradient></fs_gloss_gradient>
+<gloss_gradient_color_idle>#8AD9FF</gloss_gradient_color_idle>
+<gloss_gradient_color_selected>#FFFFFF</gloss_gradient_color_selected>
+<fs_gloss_img></fs_gloss_img>
+<gloss_img_idle></gloss_img_idle>
+<gloss_img_selected></gloss_img_selected>
+<gloss_img_repeat>repeat</gloss_img_repeat>
+<gloss_img_position>cm</gloss_img_position>
+<gloss_img_position_custom></gloss_img_position_custom>
+<fs_style_search></fs_style_search>
+<search_input_border_style>solid</search_input_border_style>
+<search_input_border_color>#0080C0</search_input_border_color>
+<search_input_border_width>1</search_input_border_width>
+<search_input_border_radius>5</search_input_border_radius>
+<search_input_bg_color>#FFFFFF</search_input_bg_color>
+<search_input_font_color>#004080</search_input_font_color>
+<highlight_bg_color>#FFEE99</highlight_bg_color>
+<highlight_font_color>#CC0000</highlight_font_color>
+<search_button_bg_color>#0080C0</search_button_bg_color>
+<search_button_font_color>#FFFFFF</search_button_font_color>
+<search_button_border_style>solid</search_button_border_style>
+<search_button_border_color>#0080C0</search_button_border_color>
+<search_button_border_width>1</search_button_border_width>
+<search_button_border_radius>5</search_button_border_radius>
+<fs_style_settings></fs_style_settings>
+<sett_border_style>solid</sett_border_style>
+<sett_border_width>1</sett_border_width>
+<sett_border_color>#0080C0</sett_border_color>
+<sett_padding>5</sett_padding>
+<content_const>search</content_const>
+<title_close>Закрыть окно</title_close>
+<fs_const_contents></fs_const_contents>
+<msg_order_violation>Вы не можете перейти на этот слайд, не посетив предыдущие слайды</msg_order_violation>
+<fs_const_search></fs_const_search>
+<search_text_button>Искать</search_text_button>
+<search_text_logic>Искать включение:</search_text_logic>
+<search_text_OR>Любого из слов</search_text_OR>
+<search_text_AND>Всех слов</search_text_AND>
+<search_text_case>Регистр:</search_text_case>
+<search_text_case_no>не учитывать</search_text_case_no>
+<search_text_case_yes>учитывать</search_text_case_yes>
+<search_text_found>Найдено слайдов:</search_text_found>
+<search_text_notfound>Не найдено включений, соответствующих заданным условиям</search_text_notfound>
+<fs_const_settings></fs_const_settings>
+<obj_header>Цель</obj_header>
+<obj_score>Баллы</obj_score>
+<obj_cs>Заверш.</obj_cs>
+<obj_ss>Успех</obj_ss>
+<status_n>Не начато</status_n>
+<status_i>Не закончено</status_i>
+<status_c>Закончено</status_c>
+<status_u>Неизвестно</status_u>
+<status_p>Успешно</status_p>
+<status_f>Неуспешно</status_f>
+<sound_click>none</sound_click>
+<sound_click_file_custom></sound_click_file_custom>
+<sound_over>none</sound_over>
+<sound_over_file_custom></sound_over_file_custom>
+</param>
+<param objectid="progress_bar_frames">
+<hidden.label.over>Название слайда при наведении</hidden.label.over>
+<hidden.label.current>Название текущего слайда</hidden.label.current>
+<display_type>scale</display_type>
+<elem_autogradient>no</elem_autogradient>
+<fs_scale></fs_scale>
+<scale_color>#FFFFFF</scale_color>
+<bar_color>#7658E0</bar_color>
+<scale_height>2</scale_height>
+<scale_border_width>0</scale_border_width>
+<scale_radius>0</scale_radius>
+<fs_icons></fs_icons>
+<icon_type>standard</icon_type>
+<fs_standard></fs_standard>
+<visited_fill_color>#66BBEE</visited_fill_color>
+<visited_border_color>#336699</visited_border_color>
+<current_fill_color>#FF9933</current_fill_color>
+<current_border_color>#336699</current_border_color>
+<unvisited_fill_color>#999999</unvisited_fill_color>
+<unvisited_border_color>#336699</unvisited_border_color>
+<elem_width>10</elem_width>
+<elem_height>10</elem_height>
+<elem_border_width>1</elem_border_width>
+<elem_radius>50</elem_radius>
+<fs_custom_images></fs_custom_images>
+<img_unvisited></img_unvisited>
+<img_current></img_current>
+<img_visited></img_visited>
+<inter_elem>1</inter_elem>
+<display_scope>module</display_scope>
+<display_counter>no</display_counter>
+<counter_mask>Слайд {N} из {Z}</counter_mask>
+<display_slidename>no</display_slidename>
+<allow_link>never</allow_link>
+<strict_nav_msg>Вы не можете перейти на этот слайд, не посетив предыдущие слайды</strict_nav_msg>
+<allow_mouseover>never</allow_mouseover>
+<inter_scale>0</inter_scale>
+<font>robotoblack</font>
+<font_custom></font_custom>
+<font_style>normal</font_style>
+<font_size>14</font_size>
+<text_shadow_strength>normal</text_shadow_strength>
+<text_shadow_color>#FFFFFF</text_shadow_color>
+<font_color>#004080</font_color>
+<display_bg>no</display_bg>
+<fs_bg></fs_bg>
+<bg_color>#CCDDEE</bg_color>
+<border_color>#336699</border_color>
+<border_width>1</border_width>
+<radius>5</radius>
+<box_padding>15</box_padding>
+<shadow_strength>normal</shadow_strength>
+<bg_autogradient>yes</bg_autogradient>
+<sound_click>none</sound_click>
+<sound_click_file_custom></sound_click_file_custom>
+<sound_over>none</sound_over>
+<sound_over_file_custom></sound_over_file_custom>
+</param>
+<param objectid="resources">
+<hidden.label.1>Дополнительные файлы</hidden.label.1>
+<hidden.label.2>(скрытый объект)</hidden.label.2>
+<files>
+<item>
+<file_uri>images/OpenSans-Bold.otf</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-BoldItalic.otf</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-CondensedBold.otf</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-SemiboldItalic.eot</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-SemiboldItalic.woff</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-SemiboldItalic.woff2</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-LightItalic.eot</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSansLight-Italic.woff</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-LightItalic.woff2</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans.woff</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Regular.eot</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Regular.woff2</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Semibold.eot</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Semibold.woff</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Semibold.woff2</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Light.eot</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Light.woff</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Light.woff2</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-CondensedLightItalic.woff</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-CondLightItalic.eot</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-CondLightItalic.woff2</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-ExtraBold.eot</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Extrabold.woff</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-ExtraBold.woff2</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-ExtraBoldItalic.eot</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-ExtraboldItalic.woff</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-ExtraBoldItalic.woff2</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Italic.eot</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Italic.woff</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Italic.woff2</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-CondensedLight.woff</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-CondLightItalic.eot</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-ExtraBold.eot</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Extrabold.woff</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-ExtraBoldItalic.eot</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-ExtraboldItalic.woff</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-ExtraBoldItalic.woff2</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Italic.eot</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Italic.woff</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Italic.woff2</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-SemiboldItalic.ttf</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Semibold.ttf</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Regular.ttf</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-LightItalic.ttf</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Light.ttf</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Italic.ttf</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-ExtraBoldItalic.ttf</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-ExtraBold.ttf</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-CondLightItalic.ttf</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-CondLight.ttf</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-CondBold.ttf</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-BoldItalic.ttf</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-BoldItalic.eot</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-BoldItalic.woff</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Light.otf</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Italic.otf</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-ExtraboldItalic.otf</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Semibold.otf</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSansLight-Italic.otf</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-CondensedLightItalic.otf</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-CondensedLight.otf</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Extrabold.otf</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Semibold.otf</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans.otf</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-SemiboldItalic.otf</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-CondensedBold.woff</file_uri>
+</item>
+<item>
+<file_uri>images/top.png</file_uri>
+</item>
+<item>
+<file_uri>images/about_course_o.png</file_uri>
+</item>
+<item>
+<file_uri>images/about_course_n.png</file_uri>
+</item>
+<item>
+<file_uri>images/about_devs_n.png</file_uri>
+</item>
+<item>
+<file_uri>images/about_devs_o.png</file_uri>
+</item>
+<item>
+<file_uri>images/autors_close_n.png</file_uri>
+</item>
+<item>
+<file_uri>images/autors_close_o.png</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-SemiboldItalic.svg</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Semibold.svg</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSansLight-Italic.svg</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Light.svg</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Italic.svg</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-ExtraboldItalic.svg</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-CondensedLightItalic.svg</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-CondensedBold.svg</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-CondensedLight.svg</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-BoldItalic.svg</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Bold.svg</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans.svg</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans.svg</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans.woff</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Regular.eot</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Regular.woff2</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans.ttf</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Bold.woff2</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Bold.woff</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Bold.woff2</file_uri>
+</item>
+<item>
+<file_uri>images/soft_bg_blue.png</file_uri>
+</item>
+<item>
+<file_uri>images/autors_btn_url_n.png</file_uri>
+</item>
+<item>
+<file_uri>images/autors_btn_url_o.png</file_uri>
+</item>
+<item>
+<file_uri>images/autors_btn_url_n.png</file_uri>
+</item>
+<item>
+<file_uri>images/autors_btn_url_o.png</file_uri>
+</item>
+<item>
+<file_uri>images/soft_bg_blue.png</file_uri>
+</item>
+<item>
+<file_uri>images/glossary_btn_a.png</file_uri>
+</item>
+<item>
+<file_uri>images/glossary_btn_n.png</file_uri>
+</item>
+<item>
+<file_uri>images/glossary_btn_o.png</file_uri>
+</item>
+<item>
+<file_uri>images/menu_btn_n.png</file_uri>
+</item>
+<item>
+<file_uri>images/menu_btn_o.png</file_uri>
+</item>
+<item>
+<file_uri>images/menu_btn_o.png</file_uri>
+</item>
+</files>
+</param>
+<param objectid="close_menu">
+<hidden_noimg>Не все картинки заданы</hidden_noimg>
+<n1_img>images/close_btn_n.png</n1_img>
+<n2_img>images/close_btn_n.png</n2_img>
+<n3_img>images/close_btn_n.png</n3_img>
+<alt_enabled></alt_enabled>
+<alt_disabled></alt_disabled>
+<navibutton>no</navibutton>
+<nav_lock>yes</nav_lock>
+<use_object>no</use_object>
+<target_object></target_object>
+<sound_click>none</sound_click>
+<sound_click_file_custom></sound_click_file_custom>
+<sound_over>none</sound_over>
+<sound_over_file_custom></sound_over_file_custom>
+</param>
+<param objectid="menu_btn_old">
+<hidden_noimg>Не все картинки заданы</hidden_noimg>
+<n1_img>images/menu_btn_n.png</n1_img>
+<n2_img>images/menu_btn_o.png</n2_img>
+<n3_img>images/menu_btn_n.png</n3_img>
+<alt_enabled></alt_enabled>
+<alt_disabled></alt_disabled>
+<navibutton>yes</navibutton>
+<nav_lock>no</nav_lock>
+<use_object>no</use_object>
+<target_object></target_object>
+<sound_click>none</sound_click>
+<sound_click_file_custom></sound_click_file_custom>
+<sound_over>none</sound_over>
+<sound_over_file_custom></sound_over_file_custom>
+</param>
+<param objectid="counter">
+<position_text></position_text>
+<position_divider>/</position_divider>
+<font>Tahoma</font>
+<font_custom></font_custom>
+<font_style>normal</font_style>
+<font_size>24</font_size>
+<text_shadow_strength>none</text_shadow_strength>
+<text_shadow_color>#FFFFFF</text_shadow_color>
+<font_color>#7658E0</font_color>
+<display_type>plain</display_type>
+<text_sub_module>Слайд {{N}} из {{M}}</text_sub_module>
+<text_sub_chapter>Слайд {{X}} из {{Y}}</text_sub_chapter>
+<text_sub_all>Слайд {{X}} из {{Y}} ({{N}} из {{M}})</text_sub_all>
+</param>
+</params>
+<objectives>
+<objective module="yes" id="total" name="Главная цель модуля" cs="u" ss="u" scoremax="100" scoremin="0"/>
+<objective id="test_q" name="count of test startings" cs="n" ss="u" scoremax="10" scoremin="0"/>
+<objective id="course_map" name="Массив переменных для сохоанения кнопок навигации" cs="u" ss="u" scoremax="0" scoremin="0"/>
+</objectives>
+<rules>
+<rule objective="total" cs="c" ss="p">
+<condition type="visited" visits=""/>
+<condition type="score" op="and" objective="total" comp="ge" score="80"/>
+</rule>
+<rule objective="total" cs="c" ss="u">
+<condition type="visited" visits=""/>
+<condition type="score" op="and" objective="total" comp="lt" score="80"/>
+</rule>
+</rules>
+<runtimechecks>
+</runtimechecks>
+</module>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Splash screen file, saved 7/29/2021 4:42:49 PM using CourseLab 200122 -->
+<splash>
+<settings>
+<showsplash>yes</showsplash>
+<fitwindow>no</fitwindow>
+<fit_small_window>yes</fit_small_window>
+</settings>
+<data>
+<![CDATA[<img src="images/fon.png" style="position:absolute;left:405px;top:45px;width:471px;height:480px;"/><div style="position: absolute; box-sizing: border-box; left: 45px; top: 155px; width: 1190px; height: 261px;"><div class="h2 text-center">Приостановление операций по счетам
+  <br />
+  в банках, а также переводов электронных денежных средств организаций
+  <br />
+  и индивидуальных предпринимателей
+</div></div><img src="images/logo.png" style="position:absolute;left:30px;top:30px;width:116px;height:22px;"/><div style="position: absolute; box-sizing: border-box; left: 440px; top: 575px; width: 400px; height: 110px;"><div class="row">
+<div class="btn btn__outline btn__round xxl w-100 text-center text-bold" onclick="StartModule();" title="Начать">Начать</div>
+</div></div><div style="position: absolute; box-sizing: border-box; left: 0px; top: 0px; width: 0px; height: 0px;"><div class="modal--overflow" id="course" style="display: none;">
+  <div class="modal--content">
+    <div class="contents-close splash" onclick="$('#course').fadeOut(300);">&nbsp;
+    </div>
+    <div class="text-l">В курсе вы узнаете о продукте &laquo;Страхование кредитной карты&raquo;: его ценности, характеристиках, правилах подключения и технике продаж.
+    </div>
+  </div>
+</div></div>]]>
+</data>
+</splash>

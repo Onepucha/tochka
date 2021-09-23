@@ -1,0 +1,472 @@
+Message: Uncaught TypeError: Cannot call method 'getData' of undefined
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/cl-editor.js
+Line: 222
+-----------------------
+Message: Uncaught TypeError: Failed to execute 'serializeToString' on 'XMLSerializer': Invalid node value.
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/cl-editor.js
+Line: 311
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: Uncaught TypeError: Cannot call method 'getData' of undefined
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/cl-editor.js
+Line: 222
+-----------------------
+Message: Uncaught TypeError: Failed to execute 'serializeToString' on 'XMLSerializer': Invalid node value.
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/cl-editor.js
+Line: 311
+-----------------------
+Message: Uncaught TypeError: Failed to execute 'serializeToString' on 'XMLSerializer': Invalid node value.
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/cl-editor.js
+Line: 311
+-----------------------
+Message: Uncaught TypeError: Cannot call method 'getData' of undefined
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/cl-editor.js
+Line: 222
+-----------------------
+Message: Uncaught TypeError: Cannot read property '$' of undefined
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 911
+-----------------------
+Message: Uncaught TypeError: Failed to execute 'serializeToString' on 'XMLSerializer': Invalid node value.
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/cl-editor.js
+Line: 311
+-----------------------
+Message: Uncaught TypeError: Failed to execute 'serializeToString' on 'XMLSerializer': Invalid node value.
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/cl-editor.js
+Line: 311
+-----------------------
+Message: Uncaught TypeError: Failed to execute 'serializeToString' on 'XMLSerializer': Invalid node value.
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/cl-editor.js
+Line: 311
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: Uncaught TypeError: Failed to execute 'serializeToString' on 'XMLSerializer': Invalid node value.
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/cl-editor.js
+Line: 311
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: Uncaught TypeError: Failed to execute 'serializeToString' on 'XMLSerializer': Invalid node value.
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/cl-editor.js
+Line: 311
+-----------------------
+Message: Uncaught TypeError: Cannot read property '$' of undefined
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 911
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: Uncaught TypeError: Failed to execute 'serializeToString' on 'XMLSerializer': Invalid node value.
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/cl-editor.js
+Line: 311
+-----------------------
+Message: Uncaught TypeError: Failed to execute 'serializeToString' on 'XMLSerializer': Invalid node value.
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/cl-editor.js
+Line: 311
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: Uncaught TypeError: Failed to execute 'serializeToString' on 'XMLSerializer': Invalid node value.
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/cl-editor.js
+Line: 311
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: Uncaught TypeError: Cannot read property '$' of undefined
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 911
+-----------------------
+Message: Uncaught TypeError: Cannot read property '$' of undefined
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 911
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: Uncaught TypeError: Cannot read property '$' of undefined
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 911
+-----------------------
+Message: Uncaught TypeError: Cannot call method 'getData' of undefined
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/cl-editor.js
+Line: 222
+-----------------------
+Message: Uncaught TypeError: Failed to execute 'serializeToString' on 'XMLSerializer': Invalid node value.
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/cl-editor.js
+Line: 311
+-----------------------
+Message: Uncaught ReferenceError: Vue is not defined
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/1.bmp
+Line: 30
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: Uncaught TypeError: Failed to execute 'serializeToString' on 'XMLSerializer': Invalid node value.
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/cl-editor.js
+Line: 311
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
+Message: TypeError: Cannot read property 'length' of null
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 910
+-----------------------
